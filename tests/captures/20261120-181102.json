@@ -1,0 +1,458 @@
+{
+ "all_lines": [
+  [
+   "o",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   721,
+   6,
+   11,
+   10
+  ],
+  [
+   "INVENTORY",
+   "gold",
+   [
+    206,
+    191,
+    141
+   ],
+   353,
+   160,
+   120,
+   16
+  ],
+  [
+   "HORA ZON'S LEGACY",
+   "green",
+   [
+    0,
+    240,
+    0
+   ],
+   414,
+   276,
+   202,
+   15
+  ],
+  [
+   "m IRRORED BOOTS",
+   "green",
+   [
+    0,
+    252,
+    0
+   ],
+   424,
+   301,
+   181,
+   15
+  ],
+  [
+   "DEFENSE: 65",
+   "white",
+   [
+    246,
+    246,
+    246
+   ],
+   448,
+   326,
+   133,
+   15
+  ],
+  [
+   "DURABILITY : 18 OF 18",
+   "white",
+   [
+    233,
+    233,
+    233
+   ],
+   399,
+   351,
+   230,
+   15
+  ],
+  [
+   "REQUIRED STRENGTH: 115",
+   "white",
+   [
+    233,
+    233,
+    233
+   ],
+   378,
+   375,
+   273,
+   17
+  ],
+  [
+   "REQUIRED LEVEL : 67",
+   "white",
+   [
+    237,
+    237,
+    237
+   ],
+   405,
+   401,
+   219,
+   16
+  ],
+  [
+   "+3\u00d8% FASTER RUN/ WALK",
+   "blue",
+   [
+    122,
+    122,
+    228
+   ],
+   377,
+   425,
+   277,
+   19
+  ],
+  [
+   "+13 TO STRENGTH",
+   "blue",
+   [
+    128,
+    128,
+    240
+   ],
+   419,
+   450,
+   190,
+   15
+  ],
+  [
+   "+12 TO DEXTERITY",
+   "blue",
+   [
+    127,
+    127,
+    238
+   ],
+   416,
+   475,
+   199,
+   15
+  ],
+  [
+   "m AGIC RESIST *22%",
+   "blue",
+   [
+    127,
+    127,
+    238
+   ],
+   408,
+   500,
+   214,
+   16
+  ],
+  [
+   "CANNOT BE FROZEN",
+   "blue",
+   [
+    132,
+    132,
+    248
+   ],
+   407,
+   525,
+   213,
+   15
+  ],
+  [
+   "REQUIRETIENTS -3\u00d8%",
+   "blue",
+   [
+    127,
+    127,
+    237
+   ],
+   398,
+   550,
+   234,
+   17
+  ],
+  [
+   "+1\u00d8% FASTER RUN/WALK",
+   "green",
+   [
+    0,
+    225,
+    0
+   ],
+   378,
+   575,
+   274,
+   19
+  ],
+  [
+   "+3 TO WARLOCK SKILLS",
+   "gold",
+   [
+    199,
+    184,
+    136
+   ],
+   389,
+   625,
+   253,
+   15
+  ],
+  [
+   "+35\u00d8% ENHANCED D A m AGE",
+   "gold",
+   [
+    204,
+    188,
+    139
+   ],
+   365,
+   650,
+   299,
+   15
+  ],
+  [
+   "+30 TO ENCHANT",
+   "gold",
+   [
+    203,
+    188,
+    139
+   ],
+   419,
+   675,
+   192,
+   15
+  ],
+  [
+   "+3\u00d8\u00d8 DEFENSE",
+   "gold",
+   [
+    207,
+    191,
+    141
+   ],
+   432,
+   700,
+   164,
+   15
+  ],
+  [
+   "+20 TO DEXTERITY",
+   "gold",
+   [
+    202,
+    186,
+    138
+   ],
+   412,
+   725,
+   206,
+   15
+  ],
+  [
+   "+3\u00d8 TO ENERGY",
+   "gold",
+   [
+    202,
+    187,
+    138
+   ],
+   429,
+   750,
+   172,
+   16
+  ],
+  [
+   "ALL RESISTANCES +50",
+   "gold",
+   [
+    201,
+    185,
+    137
+   ],
+   394,
+   775,
+   240,
+   15
+  ],
+  [
+   "x",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   768,
+   6,
+   10,
+   10
+  ],
+  [
+   "I\u00d8\u00d8% BETTER CHANCE OF GETTING ITIAGlc ITEms",
+   "gold",
+   [
+    202,
+    186,
+    138
+   ],
+   246,
+   800,
+   537,
+   15
+  ],
+  [
+   "ANA: 428 / 428",
+   "unknown",
+   [
+    61,
+    61,
+    61
+   ],
+   240,
+   841,
+   140,
+   15
+  ]
+ ],
+ "tooltip": [
+  [
+   "HORA ZON'S LEGACY",
+   "green"
+  ],
+  [
+   "m IRRORED BOOTS",
+   "green"
+  ],
+  [
+   "DEFENSE: 65",
+   "white"
+  ],
+  [
+   "DURABILITY : 18 OF 18",
+   "white"
+  ],
+  [
+   "REQUIRED STRENGTH: 115",
+   "white"
+  ],
+  [
+   "REQUIRED LEVEL : 67",
+   "white"
+  ],
+  [
+   "+3\u00d8% FASTER RUN/ WALK",
+   "blue"
+  ],
+  [
+   "+13 TO STRENGTH",
+   "blue"
+  ],
+  [
+   "+12 TO DEXTERITY",
+   "blue"
+  ],
+  [
+   "m AGIC RESIST *22%",
+   "blue"
+  ],
+  [
+   "CANNOT BE FROZEN",
+   "blue"
+  ],
+  [
+   "REQUIRETIENTS -3\u00d8%",
+   "blue"
+  ],
+  [
+   "+1\u00d8% FASTER RUN/WALK",
+   "green"
+  ]
+ ],
+ "parsed": {
+  "category": "set",
+  "name": "Horazon's Legacy",
+  "base": "Mirrored Boots",
+  "stats": [
+   "DURABILITY : 18 OF 18",
+   "+3\u00d8% FASTER RUN/ WALK",
+   "+13 TO STRENGTH",
+   "+12 TO DEXTERITY",
+   "m AGIC RESIST *22%",
+   "CANNOT BE FROZEN",
+   "REQUIRETIENTS -3\u00d8%",
+   "+1\u00d8% FASTER RUN/WALK"
+  ],
+  "defense": 65,
+  "ethereal": false,
+  "sockets": null,
+  "unidentified": false,
+  "superior": false,
+  "raw": [
+   [
+    "HORA ZON'S LEGACY",
+    "green"
+   ],
+   [
+    "m IRRORED BOOTS",
+    "green"
+   ],
+   [
+    "DEFENSE: 65",
+    "white"
+   ],
+   [
+    "DURABILITY : 18 OF 18",
+    "white"
+   ],
+   [
+    "REQUIRED STRENGTH: 115",
+    "white"
+   ],
+   [
+    "REQUIRED LEVEL : 67",
+    "white"
+   ],
+   [
+    "+3\u00d8% FASTER RUN/ WALK",
+    "blue"
+   ],
+   [
+    "+13 TO STRENGTH",
+    "blue"
+   ],
+   [
+    "+12 TO DEXTERITY",
+    "blue"
+   ],
+   [
+    "m AGIC RESIST *22%",
+    "blue"
+   ],
+   [
+    "CANNOT BE FROZEN",
+    "blue"
+   ],
+   [
+    "REQUIRETIENTS -3\u00d8%",
+    "blue"
+   ],
+   [
+    "+1\u00d8% FASTER RUN/WALK",
+    "green"
+   ]
+  ],
+  "confidence": "high"
+ }
+}

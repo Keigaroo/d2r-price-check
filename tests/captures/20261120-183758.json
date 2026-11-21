@@ -1,0 +1,477 @@
+{
+ "all_lines": [
+  [
+   "Diablo II: Resurrected",
+   "white",
+   [
+    251,
+    253,
+    251
+   ],
+   26,
+   8,
+   110,
+   10
+  ],
+  [
+   "STASH",
+   "gold",
+   [
+    208,
+    192,
+    142
+   ],
+   351,
+   158,
+   62,
+   17
+  ],
+  [
+   "PERS",
+   "gray",
+   [
+    141,
+    154,
+    157
+   ],
+   165,
+   203,
+   28,
+   8
+  ],
+  [
+   "O L SS L A b E",
+   "gray",
+   [
+    130,
+    130,
+    130
+   ],
+   405,
+   218,
+   158,
+   13
+  ],
+  [
+   "TWO-HAND DAITIAGE: 87 TO 172",
+   "white",
+   [
+    242,
+    242,
+    242
+   ],
+   301,
+   240,
+   349,
+   15
+  ],
+  [
+   "DURABILITY: 26 oe26",
+   "white",
+   [
+    212,
+    212,
+    212
+   ],
+   358,
+   265,
+   237,
+   21
+  ],
+  [
+   "REQUIRED DEXTERIT+: 81",
+   "white",
+   [
+    214,
+    214,
+    214
+   ],
+   342,
+   287,
+   267,
+   21
+  ],
+  [
+   "REQUIRED STRENGTH: \"145",
+   "white",
+   [
+    235,
+    235,
+    235
+   ],
+   339,
+   315,
+   276,
+   17
+  ],
+  [
+   "REQUIRED LEVEL : 63",
+   "white",
+   [
+    238,
+    238,
+    238
+   ],
+   367,
+   342,
+   219,
+   15
+  ],
+  [
+   "FAST ATTACK SPEED",
+   "white",
+   [
+    234,
+    234,
+    234
+   ],
+   458,
+   365,
+   214,
+   16
+  ],
+  [
+   "SWORD CLASS -",
+   "white",
+   [
+    239,
+    239,
+    239
+   ],
+   282,
+   366,
+   161,
+   15
+  ],
+  [
+   "ETHEREAL (CANNOT BE -REPAIRED), SOCKETED (5)",
+   "blue",
+   [
+    118,
+    118,
+    221
+   ],
+   206,
+   389,
+   537,
+   19
+  ],
+  [
+   "SHIFT + LEFT CLICK TO EQUIP",
+   "gray",
+   [
+    148,
+    148,
+    148
+   ],
+   315,
+   425,
+   324,
+   17
+  ],
+  [
+   "CTRL + LEFT C L ICIS\u00c6O rnpvE TO INVENTORY",
+   "gray",
+   [
+    136,
+    135,
+    135
+   ],
+   237,
+   451,
+   481,
+   21
+  ],
+  [
+   "HOLD SHIFT F Corn PARE",
+   "gray",
+   [
+    151,
+    151,
+    151
+   ],
+   341,
+   476,
+   270,
+   19
+  ],
+  [
+   "PAGE 1/5",
+   "gold",
+   [
+    175,
+    162,
+    121
+   ],
+   348,
+   705,
+   71,
+   14
+  ],
+  [
+   "\u2014485475",
+   "gold",
+   [
+    206,
+    190,
+    130
+   ],
+   312,
+   758,
+   99,
+   21
+  ],
+  [
+   "-LIFE: 1273 / 1273",
+   "white",
+   [
+    223,
+    223,
+    223
+   ],
+   405,
+   841,
+   173,
+   18
+  ],
+  [
+   "Type here to search",
+   "white",
+   [
+    253,
+    254,
+    254
+   ],
+   88,
+   1054,
+   127,
+   13
+  ],
+  [
+   ".dStash",
+   "white",
+   [
+    220,
+    218,
+    215
+   ],
+   913,
+   475,
+   62,
+   17
+  ],
+  [
+   "Deckard C,iin",
+   "gold",
+   [
+    197,
+    182,
+    135
+   ],
+   889,
+   494,
+   101,
+   13
+  ],
+  [
+   "o",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1844,
+   6,
+   11,
+   10
+  ],
+  [
+   "INVENTORY",
+   "gold",
+   [
+    206,
+    191,
+    141
+   ],
+   1476,
+   160,
+   120,
+   16
+  ],
+  [
+   "annaare",
+   "red",
+   [
+    113,
+    85,
+    92
+   ],
+   1492,
+   587,
+   273,
+   46
+  ],
+  [
+   "TIANA: 428 / 428",
+   "white",
+   [
+    237,
+    237,
+    237
+   ],
+   1344,
+   841,
+   158,
+   19
+  ],
+  [
+   "6:37 PM",
+   "white",
+   [
+    214,
+    214,
+    214
+   ],
+   1814,
+   1045,
+   42,
+   10
+  ],
+  [
+   "x",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1890,
+   6,
+   10,
+   10
+  ],
+  [
+   "Ormusz",
+   "gold",
+   [
+    199,
+    184,
+    136
+   ],
+   779,
+   516,
+   56,
+   12
+  ]
+ ],
+ "tooltip": [
+  [
+   "O L SS L A b E",
+   "gray"
+  ],
+  [
+   "TWO-HAND DAITIAGE: 87 TO 172",
+   "white"
+  ],
+  [
+   "DURABILITY: 26 oe26",
+   "white"
+  ],
+  [
+   "REQUIRED DEXTERIT+: 81",
+   "white"
+  ],
+  [
+   "REQUIRED STRENGTH: \"145",
+   "white"
+  ],
+  [
+   "REQUIRED LEVEL : 63",
+   "white"
+  ],
+  [
+   "FAST ATTACK SPEED",
+   "white"
+  ],
+  [
+   "ETHEREAL (CANNOT BE -REPAIRED), SOCKETED (5)",
+   "blue"
+  ],
+  [
+   "SHIFT + LEFT CLICK TO EQUIP",
+   "gray"
+  ],
+  [
+   "CTRL + LEFT C L ICIS\u00c6O rnpvE TO INVENTORY",
+   "gray"
+  ],
+  [
+   "HOLD SHIFT F Corn PARE",
+   "gray"
+  ]
+ ],
+ "parsed": {
+  "category": "unknown",
+  "name": "O L SS L A b E",
+  "base": "",
+  "stats": [
+   "TWO-HAND DAITIAGE: 87 TO 172",
+   "FAST ATTACK SPEED",
+   "ETHEREAL (CANNOT BE -REPAIRED), SOCKETED (5)",
+   "HOLD SHIFT F Corn PARE"
+  ],
+  "defense": null,
+  "ethereal": true,
+  "sockets": 5,
+  "unidentified": false,
+  "superior": false,
+  "raw": [
+   [
+    "O L SS L A b E",
+    "gray"
+   ],
+   [
+    "TWO-HAND DAITIAGE: 87 TO 172",
+    "white"
+   ],
+   [
+    "DURABILITY: 26 oe26",
+    "white"
+   ],
+   [
+    "REQUIRED DEXTERIT+: 81",
+    "white"
+   ],
+   [
+    "REQUIRED STRENGTH: \"145",
+    "white"
+   ],
+   [
+    "REQUIRED LEVEL : 63",
+    "white"
+   ],
+   [
+    "FAST ATTACK SPEED",
+    "white"
+   ],
+   [
+    "ETHEREAL (CANNOT BE -REPAIRED), SOCKETED (5)",
+    "blue"
+   ],
+   [
+    "SHIFT + LEFT CLICK TO EQUIP",
+    "gray"
+   ],
+   [
+    "CTRL + LEFT C L ICIS\u00c6O rnpvE TO INVENTORY",
+    "gray"
+   ],
+   [
+    "HOLD SHIFT F Corn PARE",
+    "gray"
+   ]
+  ],
+  "confidence": "low"
+ }
+}

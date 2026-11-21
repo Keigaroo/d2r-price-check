@@ -1,0 +1,255 @@
+{
+ "all_lines": [
+  [
+   "o",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   986,
+   6,
+   11,
+   10
+  ],
+  [
+   "x",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1032,
+   6,
+   10,
+   10
+  ],
+  [
+   "RING",
+   "gold",
+   [
+    209,
+    193,
+    143
+   ],
+   567,
+   249,
+   48,
+   13
+  ],
+  [
+   "REQUIRED LEVEL : 5\u00d8",
+   "white",
+   [
+    236,
+    236,
+    236
+   ],
+   478,
+   273,
+   224,
+   17
+  ],
+  [
+   "2% CHANCE TO CAST LEVEL 15 FLATTIE WAVE ON ATTACK",
+   "blue",
+   [
+    126,
+    126,
+    235
+   ],
+   285,
+   298,
+   611,
+   15
+  ],
+  [
+   "+10% FASTER CAST RATE",
+   "blue",
+   [
+    125,
+    125,
+    234
+   ],
+   455,
+   322,
+   271,
+   16
+  ],
+  [
+   "+4% TO ITIAGIC SKILL D A m AGE",
+   "blue",
+   [
+    127,
+    127,
+    239
+   ],
+   428,
+   348,
+   324,
+   15
+  ],
+  [
+   "ALL RESISTANCES +7",
+   "blue",
+   [
+    127,
+    127,
+    238
+   ],
+   478,
+   373,
+   221,
+   15
+  ],
+  [
+   "+3 LIFE AFTER EACH KILL",
+   "blue",
+   [
+    127,
+    127,
+    239
+   ],
+   454,
+   398,
+   274,
+   15
+  ],
+  [
+   "TO m ANA AFTER EACH KILL",
+   "blue",
+   [
+    130,
+    130,
+    243
+   ],
+   460,
+   423,
+   295,
+   15
+  ],
+  [
+   "SHIFT + LEFT CLICK TO UNEQUIP",
+   "gray",
+   [
+    152,
+    152,
+    152
+   ],
+   412,
+   457,
+   358,
+   17
+  ],
+  [
+   "rnANA: 428 / 428",
+   "white",
+   [
+    240,
+    240,
+    240
+   ],
+   487,
+   840,
+   158,
+   19
+  ]
+ ],
+ "tooltip": [
+  [
+   "RING",
+   "gold"
+  ],
+  [
+   "REQUIRED LEVEL : 5\u00d8",
+   "white"
+  ],
+  [
+   "2% CHANCE TO CAST LEVEL 15 FLATTIE WAVE ON ATTACK",
+   "blue"
+  ],
+  [
+   "+10% FASTER CAST RATE",
+   "blue"
+  ],
+  [
+   "+4% TO ITIAGIC SKILL D A m AGE",
+   "blue"
+  ],
+  [
+   "ALL RESISTANCES +7",
+   "blue"
+  ],
+  [
+   "+3 LIFE AFTER EACH KILL",
+   "blue"
+  ],
+  [
+   "TO m ANA AFTER EACH KILL",
+   "blue"
+  ],
+  [
+   "SHIFT + LEFT CLICK TO UNEQUIP",
+   "gray"
+  ]
+ ],
+ "parsed": {
+  "category": "base",
+  "name": "RING",
+  "base": "Ring",
+  "stats": [
+   "2% CHANCE TO CAST LEVEL 15 FLATTIE WAVE ON ATTACK",
+   "+10% FASTER CAST RATE",
+   "+4% TO ITIAGIC SKILL D A m AGE",
+   "ALL RESISTANCES +7",
+   "+3 LIFE AFTER EACH KILL",
+   "TO m ANA AFTER EACH KILL"
+  ],
+  "defense": null,
+  "ethereal": false,
+  "sockets": null,
+  "unidentified": false,
+  "superior": false,
+  "raw": [
+   [
+    "RING",
+    "gold"
+   ],
+   [
+    "REQUIRED LEVEL : 5\u00d8",
+    "white"
+   ],
+   [
+    "2% CHANCE TO CAST LEVEL 15 FLATTIE WAVE ON ATTACK",
+    "blue"
+   ],
+   [
+    "+10% FASTER CAST RATE",
+    "blue"
+   ],
+   [
+    "+4% TO ITIAGIC SKILL D A m AGE",
+    "blue"
+   ],
+   [
+    "ALL RESISTANCES +7",
+    "blue"
+   ],
+   [
+    "+3 LIFE AFTER EACH KILL",
+    "blue"
+   ],
+   [
+    "TO m ANA AFTER EACH KILL",
+    "blue"
+   ],
+   [
+    "SHIFT + LEFT CLICK TO UNEQUIP",
+    "gray"
+   ]
+  ],
+  "confidence": "high"
+ }
+}

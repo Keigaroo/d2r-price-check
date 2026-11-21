@@ -1,0 +1,341 @@
+{
+ "all_lines": [
+  [
+   "o",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   979,
+   6,
+   11,
+   10
+  ],
+  [
+   "x",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1025,
+   6,
+   10,
+   10
+  ],
+  [
+   "\u00c4lkor",
+   "gold",
+   [
+    188,
+    174,
+    128
+   ],
+   49,
+   314,
+   47,
+   15
+  ],
+  [
+   "a-stash",
+   "white",
+   [
+    210,
+    209,
+    207
+   ],
+   65,
+   478,
+   68,
+   15
+  ],
+  [
+   "Deuard Cain",
+   "gold",
+   [
+    186,
+    172,
+    127
+   ],
+   41,
+   494,
+   101,
+   15
+  ],
+  [
+   "INVENTORY",
+   "gold",
+   [
+    206,
+    191,
+    141
+   ],
+   611,
+   160,
+   120,
+   16
+  ],
+  [
+   "OPAL VEIN",
+   "gold",
+   [
+    207,
+    191,
+    141
+   ],
+   532,
+   198,
+   102,
+   15
+  ],
+  [
+   "RING",
+   "gold",
+   [
+    209,
+    193,
+    143
+   ],
+   560,
+   224,
+   48,
+   13
+  ],
+  [
+   "REQUIRED LEVEL: 5\u00d8",
+   "white",
+   [
+    236,
+    236,
+    236
+   ],
+   471,
+   248,
+   224,
+   17
+  ],
+  [
+   "2% CHANCE TO CAST LEVEL 15 FL A rnE WAVE ON ATTACK",
+   "blue",
+   [
+    126,
+    126,
+    235
+   ],
+   278,
+   273,
+   611,
+   15
+  ],
+  [
+   "+1\u00d8% FASTER CAST RATE",
+   "blue",
+   [
+    125,
+    125,
+    234
+   ],
+   448,
+   297,
+   271,
+   16
+  ],
+  [
+   "+4% TO ITIAGIC SKILL D A m AGE",
+   "blue",
+   [
+    127,
+    127,
+    238
+   ],
+   421,
+   323,
+   324,
+   15
+  ],
+  [
+   "ALL RESISTANCES +7",
+   "blue",
+   [
+    127,
+    127,
+    238
+   ],
+   471,
+   348,
+   222,
+   15
+  ],
+  [
+   "+3 LIFE AFTER EACH KILL",
+   "blue",
+   [
+    127,
+    127,
+    239
+   ],
+   447,
+   373,
+   274,
+   15
+  ],
+  [
+   "+1 TO m ANA AFTER EACH KILL",
+   "blue",
+   [
+    128,
+    128,
+    240
+   ],
+   420,
+   398,
+   328,
+   15
+  ],
+  [
+   "SHIFT + LEFT CLICK TO UNEQUIP",
+   "gray",
+   [
+    152,
+    152,
+    152
+   ],
+   405,
+   432,
+   358,
+   17
+  ],
+  [
+   "CTRL + LEFT CLICK TO",
+   "gray",
+   [
+    154,
+    154,
+    154
+   ],
+   427,
+   457,
+   242,
+   15
+  ],
+  [
+   "fiiANA: 428 [428",
+   "white",
+   [
+    219,
+    219,
+    219
+   ],
+   474,
+   837,
+   164,
+   22
+  ]
+ ],
+ "tooltip": [
+  [
+   "OPAL VEIN",
+   "gold"
+  ],
+  [
+   "RING",
+   "gold"
+  ],
+  [
+   "REQUIRED LEVEL: 5\u00d8",
+   "white"
+  ],
+  [
+   "2% CHANCE TO CAST LEVEL 15 FL A rnE WAVE ON ATTACK",
+   "blue"
+  ],
+  [
+   "+1\u00d8% FASTER CAST RATE",
+   "blue"
+  ],
+  [
+   "+4% TO ITIAGIC SKILL D A m AGE",
+   "blue"
+  ],
+  [
+   "ALL RESISTANCES +7",
+   "blue"
+  ],
+  [
+   "+3 LIFE AFTER EACH KILL",
+   "blue"
+  ],
+  [
+   "+1 TO m ANA AFTER EACH KILL",
+   "blue"
+  ],
+  [
+   "SHIFT + LEFT CLICK TO UNEQUIP",
+   "gray"
+  ]
+ ],
+ "parsed": {
+  "category": "unique",
+  "name": "Opalvein",
+  "base": "Ring",
+  "stats": [
+   "2% CHANCE TO CAST LEVEL 15 FL A rnE WAVE ON ATTACK",
+   "+1\u00d8% FASTER CAST RATE",
+   "+4% TO ITIAGIC SKILL D A m AGE",
+   "ALL RESISTANCES +7",
+   "+3 LIFE AFTER EACH KILL",
+   "+1 TO m ANA AFTER EACH KILL"
+  ],
+  "defense": null,
+  "ethereal": false,
+  "sockets": null,
+  "unidentified": false,
+  "superior": false,
+  "raw": [
+   [
+    "OPAL VEIN",
+    "gold"
+   ],
+   [
+    "RING",
+    "gold"
+   ],
+   [
+    "REQUIRED LEVEL: 5\u00d8",
+    "white"
+   ],
+   [
+    "2% CHANCE TO CAST LEVEL 15 FL A rnE WAVE ON ATTACK",
+    "blue"
+   ],
+   [
+    "+1\u00d8% FASTER CAST RATE",
+    "blue"
+   ],
+   [
+    "+4% TO ITIAGIC SKILL D A m AGE",
+    "blue"
+   ],
+   [
+    "ALL RESISTANCES +7",
+    "blue"
+   ],
+   [
+    "+3 LIFE AFTER EACH KILL",
+    "blue"
+   ],
+   [
+    "+1 TO m ANA AFTER EACH KILL",
+    "blue"
+   ],
+   [
+    "SHIFT + LEFT CLICK TO UNEQUIP",
+    "gray"
+   ]
+  ],
+  "confidence": "high"
+ }
+}

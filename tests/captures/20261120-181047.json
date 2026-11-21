@@ -1,0 +1,352 @@
+{
+ "all_lines": [
+  [
+   "o",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1077,
+   6,
+   11,
+   10
+  ],
+  [
+   "x",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1123,
+   6,
+   10,
+   10
+  ],
+  [
+   "INVENTORY",
+   "gold",
+   [
+    206,
+    191,
+    141
+   ],
+   709,
+   160,
+   120,
+   16
+  ],
+  [
+   "INSIGHT",
+   "gold",
+   [
+    207,
+    192,
+    142
+   ],
+   555,
+   425,
+   81,
+   13
+  ],
+  [
+   "COLOSSUS VOULGE",
+   "gray",
+   [
+    126,
+    126,
+    126
+   ],
+   498,
+   448,
+   192,
+   15
+  ],
+  [
+   "\u2022 RALTIRTALSOL'",
+   "gold",
+   [
+    204,
+    188,
+    139
+   ],
+   507,
+   473,
+   174,
+   15
+  ],
+  [
+   "TWO-HAND D A m AGE: 86 TO 763",
+   "white",
+   [
+    200,
+    200,
+    237
+   ],
+   419,
+   498,
+   350,
+   16
+  ],
+  [
+   "DURABILITY: 26 OFu6",
+   "white",
+   [
+    211,
+    211,
+    211
+   ],
+   476,
+   517,
+   237,
+   21
+  ],
+  [
+   "REQUIRED DEXTERITY: 36",
+   "white",
+   [
+    238,
+    238,
+    238
+   ],
+   458,
+   549,
+   272,
+   16
+  ],
+  [
+   "REQUIRED STRENGTH : 163",
+   "white",
+   [
+    239,
+    239,
+    239
+   ],
+   457,
+   573,
+   276,
+   17
+  ],
+  [
+   "\u2014note",
+   "unknown",
+   [
+    111,
+    76,
+    99
+   ],
+   772,
+   577,
+   226,
+   56
+  ],
+  [
+   "REQUIRED LEVEL : 48",
+   "white",
+   [
+    239,
+    239,
+    239
+   ],
+   485,
+   598,
+   219,
+   17
+  ],
+  [
+   "POLE A Rm CLASS - NORITIAL ATTACK SPEED",
+   "white",
+   [
+    236,
+    236,
+    236
+   ],
+   367,
+   623,
+   455,
+   16
+  ],
+  [
+   "LEVEL 13 rTIEDlTATlON AURA WHEN EQUIPPED",
+   "blue",
+   [
+    124,
+    124,
+    232
+   ],
+   347,
+   648,
+   496,
+   17
+  ],
+  [
+   "+35% FASTER CAST RATE",
+   "blue",
+   [
+    125,
+    125,
+    234
+   ],
+   460,
+   673,
+   269,
+   16
+  ],
+  [
+   "+2\u00d89% ENHANCED DAmAGE",
+   "blue",
+   [
+    129,
+    129,
+    243
+   ],
+   445,
+   698,
+   299,
+   16
+  ],
+  [
+   "+9 TO m IN I mum D A mAGE",
+   "blue",
+   [
+    130,
+    130,
+    244
+   ],
+   457,
+   723,
+   274,
+   15
+  ]
+ ],
+ "tooltip": [
+  [
+   "INSIGHT",
+   "gold"
+  ],
+  [
+   "COLOSSUS VOULGE",
+   "gray"
+  ],
+  [
+   "\u2022 RALTIRTALSOL'",
+   "gold"
+  ],
+  [
+   "TWO-HAND D A m AGE: 86 TO 763",
+   "white"
+  ],
+  [
+   "DURABILITY: 26 OFu6",
+   "white"
+  ],
+  [
+   "REQUIRED DEXTERITY: 36",
+   "white"
+  ],
+  [
+   "REQUIRED STRENGTH : 163",
+   "white"
+  ],
+  [
+   "REQUIRED LEVEL : 48",
+   "white"
+  ],
+  [
+   "POLE A Rm CLASS - NORITIAL ATTACK SPEED",
+   "white"
+  ],
+  [
+   "LEVEL 13 rTIEDlTATlON AURA WHEN EQUIPPED",
+   "blue"
+  ],
+  [
+   "+35% FASTER CAST RATE",
+   "blue"
+  ],
+  [
+   "+2\u00d89% ENHANCED DAmAGE",
+   "blue"
+  ],
+  [
+   "+9 TO m IN I mum D A mAGE",
+   "blue"
+  ]
+ ],
+ "parsed": {
+  "category": "runeword",
+  "name": "Insight",
+  "base": "Colossus Voulge",
+  "stats": [
+   "TWO-HAND D A m AGE: 86 TO 763",
+   "POLE A Rm CLASS - NORITIAL ATTACK SPEED",
+   "LEVEL 13 rTIEDlTATlON AURA WHEN EQUIPPED",
+   "+35% FASTER CAST RATE",
+   "+2\u00d89% ENHANCED DAmAGE",
+   "+9 TO m IN I mum D A mAGE"
+  ],
+  "defense": null,
+  "ethereal": false,
+  "sockets": null,
+  "unidentified": false,
+  "superior": false,
+  "raw": [
+   [
+    "INSIGHT",
+    "gold"
+   ],
+   [
+    "COLOSSUS VOULGE",
+    "gray"
+   ],
+   [
+    "\u2022 RALTIRTALSOL'",
+    "gold"
+   ],
+   [
+    "TWO-HAND D A m AGE: 86 TO 763",
+    "white"
+   ],
+   [
+    "DURABILITY: 26 OFu6",
+    "white"
+   ],
+   [
+    "REQUIRED DEXTERITY: 36",
+    "white"
+   ],
+   [
+    "REQUIRED STRENGTH : 163",
+    "white"
+   ],
+   [
+    "REQUIRED LEVEL : 48",
+    "white"
+   ],
+   [
+    "POLE A Rm CLASS - NORITIAL ATTACK SPEED",
+    "white"
+   ],
+   [
+    "LEVEL 13 rTIEDlTATlON AURA WHEN EQUIPPED",
+    "blue"
+   ],
+   [
+    "+35% FASTER CAST RATE",
+    "blue"
+   ],
+   [
+    "+2\u00d89% ENHANCED DAmAGE",
+    "blue"
+   ],
+   [
+    "+9 TO m IN I mum D A mAGE",
+    "blue"
+   ]
+  ],
+  "confidence": "high"
+ }
+}

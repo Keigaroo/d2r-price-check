@@ -1,0 +1,224 @@
+{
+ "all_lines": [
+  [
+   "o",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   995,
+   6,
+   11,
+   10
+  ],
+  [
+   "o p ALVEI N",
+   "gold",
+   [
+    207,
+    191,
+    141
+   ],
+   548,
+   223,
+   102,
+   15
+  ],
+  [
+   "RING",
+   "gold",
+   [
+    209,
+    193,
+    143
+   ],
+   576,
+   249,
+   48,
+   13
+  ],
+  [
+   "REQUIRED LEVEL : 5\u00d8",
+   "white",
+   [
+    236,
+    236,
+    236
+   ],
+   487,
+   273,
+   224,
+   17
+  ],
+  [
+   "2% CHANCE TO CAST LEVEL 15 FLATTIE WAVE ON ATTACK",
+   "blue",
+   [
+    126,
+    126,
+    235
+   ],
+   294,
+   298,
+   611,
+   15
+  ],
+  [
+   "+1\u00d8% FASTER CAST RATE",
+   "blue",
+   [
+    125,
+    125,
+    234
+   ],
+   464,
+   322,
+   271,
+   16
+  ],
+  [
+   "TO m AGIC SKILL D A m AGE",
+   "blue",
+   [
+    129,
+    129,
+    241
+   ],
+   491,
+   348,
+   270,
+   15
+  ],
+  [
+   "ALL RESISTANCES +7",
+   "blue",
+   [
+    127,
+    127,
+    238
+   ],
+   487,
+   373,
+   221,
+   15
+  ],
+  [
+   "+3 LIFE AFTER EACH KILL",
+   "blue",
+   [
+    127,
+    127,
+    239
+   ],
+   463,
+   398,
+   274,
+   15
+  ],
+  [
+   "TO m ANA AFTER EACH KILL",
+   "blue",
+   [
+    130,
+    130,
+    243
+   ],
+   469,
+   424,
+   295,
+   14
+  ],
+  [
+   "SHIFT + LEFT CLICK TO UNEQUIP",
+   "gray",
+   [
+    148,
+    148,
+    148
+   ],
+   421,
+   458,
+   358,
+   17
+  ],
+  [
+   "TIANA: 428 / 428",
+   "white",
+   [
+    236,
+    236,
+    236
+   ],
+   496,
+   841,
+   158,
+   19
+  ],
+  [
+   "x",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1041,
+   6,
+   10,
+   10
+  ]
+ ],
+ "tooltip": [
+  [
+   "ALL RESISTANCES +7",
+   "blue"
+  ],
+  [
+   "+3 LIFE AFTER EACH KILL",
+   "blue"
+  ],
+  [
+   "TO m ANA AFTER EACH KILL",
+   "blue"
+  ],
+  [
+   "SHIFT + LEFT CLICK TO UNEQUIP",
+   "gray"
+  ]
+ ],
+ "parsed": {
+  "category": "unknown",
+  "name": "ALL RESISTANCES +7",
+  "base": "",
+  "stats": [
+   "+3 LIFE AFTER EACH KILL",
+   "TO m ANA AFTER EACH KILL"
+  ],
+  "defense": null,
+  "ethereal": false,
+  "sockets": null,
+  "unidentified": false,
+  "superior": false,
+  "raw": [
+   [
+    "ALL RESISTANCES +7",
+    "blue"
+   ],
+   [
+    "+3 LIFE AFTER EACH KILL",
+    "blue"
+   ],
+   [
+    "TO m ANA AFTER EACH KILL",
+    "blue"
+   ],
+   [
+    "SHIFT + LEFT CLICK TO UNEQUIP",
+    "gray"
+   ]
+  ],
+  "confidence": "low"
+ }
+}

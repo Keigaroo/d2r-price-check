@@ -1,0 +1,460 @@
+{
+ "all_lines": [
+  [
+   "Diablo II: Resurrected",
+   "white",
+   [
+    251,
+    253,
+    251
+   ],
+   26,
+   8,
+   110,
+   10
+  ],
+  [
+   "PERS\u00b1NA",
+   "gray",
+   [
+    136,
+    148,
+    150
+   ],
+   165,
+   203,
+   56,
+   8
+  ],
+  [
+   "RAVEN CASQUE",
+   "yellow",
+   [
+    231,
+    231,
+    115
+   ],
+   398,
+   53,
+   159,
+   17
+  ],
+  [
+   "CORONET",
+   "yellow",
+   [
+    251,
+    251,
+    125
+   ],
+   428,
+   78,
+   98,
+   15
+  ],
+  [
+   "DEFENSE: 64",
+   "white",
+   [
+    221,
+    221,
+    249
+   ],
+   411,
+   104,
+   133,
+   14
+  ],
+  [
+   "DURABILITY: 29 OF 30",
+   "white",
+   [
+    243,
+    243,
+    243
+   ],
+   356,
+   128,
+   242,
+   15
+  ],
+  [
+   "REQUIRED LEVEL : 39",
+   "white",
+   [
+    235,
+    235,
+    235
+   ],
+   368,
+   153,
+   218,
+   17
+  ],
+  [
+   "+2 TO DEITION SKILLS (WARLOCK ONLY)",
+   "blue",
+   [
+    120,
+    120,
+    225
+   ],
+   261,
+   176,
+   430,
+   19
+  ],
+  [
+   "TO m AX I rnvrmDAmAGE",
+   "blue",
+   [
+    131,
+    131,
+    245
+   ],
+   374,
+   204,
+   242,
+   15
+  ],
+  [
+   "+57% ENHANCED DEFENSE",
+   "blue",
+   [
+    128,
+    128,
+    240
+   ],
+   334,
+   228,
+   285,
+   15
+  ],
+  [
+   "ALL RESISTANCES +2\u00d8",
+   "blue",
+   [
+    127,
+    127,
+    239
+   ],
+   357,
+   253,
+   240,
+   15
+  ],
+  [
+   "SHIFT + LEFT CLICKT EQUIP",
+   "gray",
+   [
+    144,
+    144,
+    145
+   ],
+   315,
+   288,
+   324,
+   18
+  ],
+  [
+   "CTRL + LEFT CYCK TO .movE TO INVENTORY",
+   "gray",
+   [
+    124,
+    124,
+    125
+   ],
+   237,
+   313,
+   482,
+   23
+  ],
+  [
+   "HOL'D SHIFT TO COITIPARE",
+   "gray",
+   [
+    148,
+    148,
+    148
+   ],
+   342,
+   335,
+   271,
+   21
+  ],
+  [
+   "Alkor",
+   "gold",
+   [
+    200,
+    184,
+    136
+   ],
+   908,
+   315,
+   41,
+   12
+  ],
+  [
+   "AS-tash'",
+   "white",
+   [
+    210,
+    210,
+    208
+   ],
+   920,
+   469,
+   67,
+   22
+  ],
+  [
+   "Deckard Cain",
+   "gold",
+   [
+    197,
+    182,
+    135
+   ],
+   889,
+   494,
+   101,
+   13
+  ],
+  [
+   "'Ormus",
+   "gold",
+   [
+    201,
+    185,
+    137
+   ],
+   777,
+   516,
+   53,
+   12
+  ],
+  [
+   "o",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1844,
+   6,
+   11,
+   10
+  ],
+  [
+   "INVENTORY",
+   "gold",
+   [
+    206,
+    191,
+    141
+   ],
+   1476,
+   160,
+   120,
+   16
+  ],
+  [
+   "annaare",
+   "red",
+   [
+    113,
+    85,
+    92
+   ],
+   1492,
+   587,
+   273,
+   46
+  ],
+  [
+   "TTIANA: 428 / 428",
+   "white",
+   [
+    237,
+    237,
+    237
+   ],
+   1343,
+   840,
+   158,
+   19
+  ],
+  [
+   "x",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1890,
+   6,
+   10,
+   10
+  ],
+  [
+   "\u2014485475",
+   "gold",
+   [
+    206,
+    190,
+    130
+   ],
+   312,
+   758,
+   99,
+   21
+  ],
+  [
+   "\u2014LIFE:",
+   "white",
+   [
+    231,
+    230,
+    230
+   ],
+   405,
+   841,
+   53,
+   15
+  ],
+  [
+   "1273 / 1273",
+   "white",
+   [
+    238,
+    238,
+    238
+   ],
+   471,
+   841,
+   107,
+   18
+  ]
+ ],
+ "tooltip": [
+  [
+   "RAVEN CASQUE",
+   "yellow"
+  ],
+  [
+   "CORONET",
+   "yellow"
+  ],
+  [
+   "DEFENSE: 64",
+   "white"
+  ],
+  [
+   "DURABILITY: 29 OF 30",
+   "white"
+  ],
+  [
+   "REQUIRED LEVEL : 39",
+   "white"
+  ],
+  [
+   "+2 TO DEITION SKILLS (WARLOCK ONLY)",
+   "blue"
+  ],
+  [
+   "TO m AX I rnvrmDAmAGE",
+   "blue"
+  ],
+  [
+   "+57% ENHANCED DEFENSE",
+   "blue"
+  ],
+  [
+   "ALL RESISTANCES +2\u00d8",
+   "blue"
+  ],
+  [
+   "SHIFT + LEFT CLICKT EQUIP",
+   "gray"
+  ],
+  [
+   "CTRL + LEFT CYCK TO .movE TO INVENTORY",
+   "gray"
+  ],
+  [
+   "HOL'D SHIFT TO COITIPARE",
+   "gray"
+  ]
+ ],
+ "parsed": {
+  "category": "rare",
+  "name": "RAVEN CASQUE",
+  "base": "Coronet",
+  "stats": [
+   "+2 TO DEITION SKILLS (WARLOCK ONLY)",
+   "TO m AX I rnvrmDAmAGE",
+   "+57% ENHANCED DEFENSE",
+   "ALL RESISTANCES +20",
+   "HOL'D SHIFT TO COITIPARE"
+  ],
+  "defense": 64,
+  "ethereal": false,
+  "sockets": null,
+  "unidentified": false,
+  "superior": false,
+  "raw": [
+   [
+    "RAVEN CASQUE",
+    "yellow"
+   ],
+   [
+    "CORONET",
+    "yellow"
+   ],
+   [
+    "DEFENSE: 64",
+    "white"
+   ],
+   [
+    "DURABILITY: 29 OF 30",
+    "white"
+   ],
+   [
+    "REQUIRED LEVEL : 39",
+    "white"
+   ],
+   [
+    "+2 TO DEITION SKILLS (WARLOCK ONLY)",
+    "blue"
+   ],
+   [
+    "TO m AX I rnvrmDAmAGE",
+    "blue"
+   ],
+   [
+    "+57% ENHANCED DEFENSE",
+    "blue"
+   ],
+   [
+    "ALL RESISTANCES +20",
+    "blue"
+   ],
+   [
+    "SHIFT + LEFT CLICKT EQUIP",
+    "gray"
+   ],
+   [
+    "CTRL + LEFT CYCK TO .movE TO INVENTORY",
+    "gray"
+   ],
+   [
+    "HOL'D SHIFT TO COITIPARE",
+    "gray"
+   ]
+  ],
+  "confidence": "high"
+ }
+}

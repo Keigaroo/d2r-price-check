@@ -1,0 +1,289 @@
+{
+ "all_lines": [
+  [
+   "o",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   989,
+   6,
+   11,
+   10
+  ],
+  [
+   "INVENTORY",
+   "gold",
+   [
+    206,
+    190,
+    141
+   ],
+   621,
+   160,
+   121,
+   16
+  ],
+  [
+   "OPAL VEIN",
+   "gold",
+   [
+    207,
+    192,
+    142
+   ],
+   542,
+   223,
+   101,
+   15
+  ],
+  [
+   "RING",
+   "gold",
+   [
+    210,
+    194,
+    143
+   ],
+   570,
+   249,
+   48,
+   13
+  ],
+  [
+   "REQUIRED LEVEL : 50",
+   "white",
+   [
+    236,
+    236,
+    236
+   ],
+   482,
+   273,
+   224,
+   17
+  ],
+  [
+   "2% CHANCE TO CAST LEVEL 15 FL A ITIE WAVE ON ATTACK",
+   "blue",
+   [
+    126,
+    125,
+    235
+   ],
+   288,
+   298,
+   611,
+   15
+  ],
+  [
+   "+10% FASTER CAST RATE",
+   "blue",
+   [
+    125,
+    125,
+    234
+   ],
+   458,
+   322,
+   271,
+   16
+  ],
+  [
+   "+4% TO m AGIc SKILL D A m AGE",
+   "blue",
+   [
+    127,
+    127,
+    239
+   ],
+   431,
+   348,
+   324,
+   15
+  ],
+  [
+   "ALL RESISTANCES +7",
+   "blue",
+   [
+    127,
+    127,
+    238
+   ],
+   482,
+   373,
+   221,
+   15
+  ],
+  [
+   "+3 LIFE AFTER EACH KILL",
+   "blue",
+   [
+    127,
+    127,
+    239
+   ],
+   457,
+   398,
+   274,
+   15
+  ],
+  [
+   "TO m ANA AFTER EACH KILL",
+   "blue",
+   [
+    130,
+    130,
+    243
+   ],
+   462,
+   423,
+   296,
+   15
+  ],
+  [
+   "SHIFT + LEFT CLICK TO UNEQUIP",
+   "gray",
+   [
+    152,
+    152,
+    152
+   ],
+   414,
+   457,
+   358,
+   17
+  ],
+  [
+   "ITIANA: 428 / 428",
+   "white",
+   [
+    240,
+    240,
+    240
+   ],
+   490,
+   840,
+   158,
+   19
+  ],
+  [
+   "x",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1036,
+   6,
+   10,
+   10
+  ]
+ ],
+ "tooltip": [
+  [
+   "OPAL VEIN",
+   "gold"
+  ],
+  [
+   "RING",
+   "gold"
+  ],
+  [
+   "REQUIRED LEVEL : 50",
+   "white"
+  ],
+  [
+   "2% CHANCE TO CAST LEVEL 15 FL A ITIE WAVE ON ATTACK",
+   "blue"
+  ],
+  [
+   "+10% FASTER CAST RATE",
+   "blue"
+  ],
+  [
+   "+4% TO m AGIc SKILL D A m AGE",
+   "blue"
+  ],
+  [
+   "ALL RESISTANCES +7",
+   "blue"
+  ],
+  [
+   "+3 LIFE AFTER EACH KILL",
+   "blue"
+  ],
+  [
+   "TO m ANA AFTER EACH KILL",
+   "blue"
+  ],
+  [
+   "SHIFT + LEFT CLICK TO UNEQUIP",
+   "gray"
+  ]
+ ],
+ "parsed": {
+  "category": "unique",
+  "name": "Opalvein",
+  "base": "Ring",
+  "stats": [
+   "2% CHANCE TO CAST LEVEL 15 FL A ITIE WAVE ON ATTACK",
+   "+10% FASTER CAST RATE",
+   "+4% TO m AGIc SKILL D A m AGE",
+   "ALL RESISTANCES +7",
+   "+3 LIFE AFTER EACH KILL",
+   "TO m ANA AFTER EACH KILL"
+  ],
+  "defense": null,
+  "ethereal": false,
+  "sockets": null,
+  "unidentified": false,
+  "superior": false,
+  "raw": [
+   [
+    "OPAL VEIN",
+    "gold"
+   ],
+   [
+    "RING",
+    "gold"
+   ],
+   [
+    "REQUIRED LEVEL : 50",
+    "white"
+   ],
+   [
+    "2% CHANCE TO CAST LEVEL 15 FL A ITIE WAVE ON ATTACK",
+    "blue"
+   ],
+   [
+    "+10% FASTER CAST RATE",
+    "blue"
+   ],
+   [
+    "+4% TO m AGIc SKILL D A m AGE",
+    "blue"
+   ],
+   [
+    "ALL RESISTANCES +7",
+    "blue"
+   ],
+   [
+    "+3 LIFE AFTER EACH KILL",
+    "blue"
+   ],
+   [
+    "TO m ANA AFTER EACH KILL",
+    "blue"
+   ],
+   [
+    "SHIFT + LEFT CLICK TO UNEQUIP",
+    "gray"
+   ]
+  ],
+  "confidence": "high"
+ }
+}

@@ -1,0 +1,572 @@
+{
+ "all_lines": [
+  [
+   "Diablo II: Resurrected",
+   "white",
+   [
+    251,
+    253,
+    251
+   ],
+   26,
+   8,
+   110,
+   10
+  ],
+  [
+   "PERS\u00b1NAL",
+   "gray",
+   [
+    135,
+    148,
+    150
+   ],
+   165,
+   203,
+   63,
+   8
+  ],
+  [
+   "o",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1844,
+   6,
+   11,
+   10
+  ],
+  [
+   "INVENTORY",
+   "gold",
+   [
+    206,
+    191,
+    141
+   ],
+   1476,
+   160,
+   120,
+   16
+  ],
+  [
+   "x",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1890,
+   6,
+   10,
+   10
+  ],
+  [
+   "SHAREO",
+   "white",
+   [
+    235,
+    235,
+    235
+   ],
+   265,
+   201,
+   47,
+   10
+  ],
+  [
+   "STASH",
+   "gold",
+   [
+    208,
+    192,
+    142
+   ],
+   351,
+   158,
+   62,
+   17
+  ],
+  [
+   "GEms",
+   "gray",
+   [
+    142,
+    155,
+    157
+   ],
+   364,
+   203,
+   33,
+   8
+  ],
+  [
+   "m ATE RIALS",
+   "gray",
+   [
+    140,
+    153,
+    155
+   ],
+   435,
+   203,
+   71,
+   8
+  ],
+  [
+   "RUNES",
+   "gray",
+   [
+    131,
+    143,
+    145
+   ],
+   542,
+   203,
+   41,
+   8
+  ],
+  [
+   "ARITI OF KING LE'ORIC",
+   "gold",
+   [
+    199,
+    184,
+    136
+   ],
+   221,
+   327,
+   229,
+   16
+  ],
+  [
+   "Tom B WAND",
+   "gold",
+   [
+    208,
+    193,
+    142
+   ],
+   267,
+   352,
+   137,
+   14
+  ],
+  [
+   "ONE -HAND DAmAGE'. I\u00d8 TO 22",
+   "white",
+   [
+    245,
+    245,
+    245
+   ],
+   167,
+   376,
+   335,
+   15
+  ],
+  [
+   "DURABILITY: I\u00d8 OF I f",
+   "white",
+   [
+    190,
+    189,
+    189
+   ],
+   218,
+   401,
+   235,
+   24
+  ],
+  [
+   "REQUIRED STRENGTH: 21",
+   "white",
+   [
+    235,
+    235,
+    235
+   ],
+   205,
+   426,
+   261,
+   17
+  ],
+  [
+   "REQUIRED LEVEL: 36",
+   "white",
+   [
+    238,
+    238,
+    238
+   ],
+   226,
+   453,
+   219,
+   15
+  ],
+  [
+   "STAFF CLASS - VERY FAST ATTACK SPEED",
+   "white",
+   [
+    217,
+    217,
+    217
+   ],
+   112,
+   476,
+   448,
+   18
+  ],
+  [
+   "5% CHANCE TO CAST LEVEL I\u00d8 BONE SPIRIT WHEN STRUCK",
+   "blue",
+   [
+    126,
+    126,
+    237
+   ],
+   20,
+   501,
+   634,
+   15
+  ],
+  [
+   "I\u00d8% CHANCE TO CAST LEVEL 2 BONE PRISON WHEN STRUCK",
+   "blue",
+   [
+    127,
+    127,
+    238
+   ],
+   17,
+   526,
+   639,
+   15
+  ],
+  [
+   "+2 TO SUITIITIONING SKILLS (NECROTIANCER ONLY)",
+   "blue",
+   [
+    121,
+    121,
+    226
+   ],
+   64,
+   550,
+   541,
+   19
+  ],
+  [
+   "+2 TO POISON AND BONE SKILLS (NECROITIANCER ONLY)",
+   "blue",
+   [
+    100,
+    100,
+    187
+   ],
+   33,
+   566,
+   603,
+   28
+  ],
+  [
+   "+10% FASTER CAST RATE",
+   "blue",
+   [
+    114,
+    114,
+    213
+   ],
+   200,
+   601,
+   271,
+   20
+  ],
+  [
+   "+2 TO RAISE SKELETAL m AGE (NECROTIANCER ONLY)",
+   "blue",
+   [
+    120,
+    120,
+    224
+   ],
+   49,
+   625,
+   572,
+   19
+  ],
+  [
+   "+2 TO TERROR -(NECROff1ANCER ONLY)",
+   "blue",
+   [
+    116,
+    116,
+    218
+   ],
+   129,
+   650,
+   412,
+   21
+  ],
+  [
+   "+3 -ro RAISE SKELETON (NECROITIANCER ONLY)",
+   "blue",
+   [
+    119,
+    119,
+    224
+   ],
+   81,
+   675,
+   507,
+   19
+  ],
+  [
+   "+3 TO SKELETON m ASTERY\u00c5NECROITIANCER ONLY)",
+   "blue",
+   [
+    120,
+    120,
+    225
+   ],
+   63,
+   700,
+   543,
+   19
+  ],
+  [
+   "+112 TO m ANA (BASED ON CHARACTER LEVEL)",
+   "blue",
+   [
+    116,
+    116,
+    218
+   ],
+   86,
+   725,
+   497,
+   19
+  ],
+  [
+   "Alkor",
+   "gold",
+   [
+    200,
+    184,
+    136
+   ],
+   908,
+   315,
+   42,
+   12
+  ],
+  [
+   "\u00c4tash\u2022\u00e5",
+   "white",
+   [
+    215,
+    214,
+    211
+   ],
+   912,
+   473,
+   76,
+   19
+  ],
+  [
+   "Deckard",
+   "gold",
+   [
+    200,
+    185,
+    137
+   ],
+   889,
+   494,
+   62,
+   13
+  ],
+  [
+   "Ormus",
+   "gold",
+   [
+    202,
+    187,
+    138
+   ],
+   789,
+   510,
+   51,
+   12
+  ]
+ ],
+ "tooltip": [
+  [
+   "ARITI OF KING LE'ORIC",
+   "gold"
+  ],
+  [
+   "Tom B WAND",
+   "gold"
+  ],
+  [
+   "ONE -HAND DAmAGE'. I\u00d8 TO 22",
+   "white"
+  ],
+  [
+   "DURABILITY: I\u00d8 OF I f",
+   "white"
+  ],
+  [
+   "REQUIRED STRENGTH: 21",
+   "white"
+  ],
+  [
+   "REQUIRED LEVEL: 36",
+   "white"
+  ],
+  [
+   "STAFF CLASS - VERY FAST ATTACK SPEED",
+   "white"
+  ],
+  [
+   "5% CHANCE TO CAST LEVEL I\u00d8 BONE SPIRIT WHEN STRUCK",
+   "blue"
+  ],
+  [
+   "I\u00d8% CHANCE TO CAST LEVEL 2 BONE PRISON WHEN STRUCK",
+   "blue"
+  ],
+  [
+   "+2 TO SUITIITIONING SKILLS (NECROTIANCER ONLY)",
+   "blue"
+  ],
+  [
+   "+2 TO POISON AND BONE SKILLS (NECROITIANCER ONLY)",
+   "blue"
+  ],
+  [
+   "+10% FASTER CAST RATE",
+   "blue"
+  ],
+  [
+   "+2 TO RAISE SKELETAL m AGE (NECROTIANCER ONLY)",
+   "blue"
+  ],
+  [
+   "+2 TO TERROR -(NECROff1ANCER ONLY)",
+   "blue"
+  ],
+  [
+   "+3 -ro RAISE SKELETON (NECROITIANCER ONLY)",
+   "blue"
+  ],
+  [
+   "+3 TO SKELETON m ASTERY\u00c5NECROITIANCER ONLY)",
+   "blue"
+  ],
+  [
+   "+112 TO m ANA (BASED ON CHARACTER LEVEL)",
+   "blue"
+  ]
+ ],
+ "parsed": {
+  "category": "unique",
+  "name": "Arm of King Leoric",
+  "base": "Tomb Wand",
+  "stats": [
+   "ONE -HAND DAmAGE'. 10 TO 22",
+   "STAFF CLASS - VERY FAST ATTACK SPEED",
+   "5% CHANCE TO CAST LEVEL 10 BONE SPIRIT WHEN STRUCK",
+   "10% CHANCE TO CAST LEVEL 2 BONE PRISON WHEN STRUCK",
+   "+2 TO SUITIITIONING SKILLS (NECROTIANCER ONLY)",
+   "+2 TO POISON AND BONE SKILLS (NECROITIANCER ONLY)",
+   "+10% FASTER CAST RATE",
+   "+2 TO RAISE SKELETAL m AGE (NECROTIANCER ONLY)",
+   "+2 TO TERROR -(NECROff1ANCER ONLY)",
+   "+3 -ro RAISE SKELETON (NECROITIANCER ONLY)",
+   "+3 TO SKELETON m ASTERY\u00c5NECROITIANCER ONLY)",
+   "+112 TO m ANA (BASED ON CHARACTER LEVEL)"
+  ],
+  "defense": null,
+  "ethereal": false,
+  "sockets": null,
+  "unidentified": false,
+  "superior": false,
+  "raw": [
+   [
+    "ARITI OF KING LE'ORIC",
+    "gold"
+   ],
+   [
+    "Tom B WAND",
+    "gold"
+   ],
+   [
+    "ONE -HAND DAmAGE'. 10 TO 22",
+    "white"
+   ],
+   [
+    "DURABILITY: 10 OF I f",
+    "white"
+   ],
+   [
+    "REQUIRED STRENGTH: 21",
+    "white"
+   ],
+   [
+    "REQUIRED LEVEL: 36",
+    "white"
+   ],
+   [
+    "STAFF CLASS - VERY FAST ATTACK SPEED",
+    "white"
+   ],
+   [
+    "5% CHANCE TO CAST LEVEL 10 BONE SPIRIT WHEN STRUCK",
+    "blue"
+   ],
+   [
+    "10% CHANCE TO CAST LEVEL 2 BONE PRISON WHEN STRUCK",
+    "blue"
+   ],
+   [
+    "+2 TO SUITIITIONING SKILLS (NECROTIANCER ONLY)",
+    "blue"
+   ],
+   [
+    "+2 TO POISON AND BONE SKILLS (NECROITIANCER ONLY)",
+    "blue"
+   ],
+   [
+    "+10% FASTER CAST RATE",
+    "blue"
+   ],
+   [
+    "+2 TO RAISE SKELETAL m AGE (NECROTIANCER ONLY)",
+    "blue"
+   ],
+   [
+    "+2 TO TERROR -(NECROff1ANCER ONLY)",
+    "blue"
+   ],
+   [
+    "+3 -ro RAISE SKELETON (NECROITIANCER ONLY)",
+    "blue"
+   ],
+   [
+    "+3 TO SKELETON m ASTERY\u00c5NECROITIANCER ONLY)",
+    "blue"
+   ],
+   [
+    "+112 TO m ANA (BASED ON CHARACTER LEVEL)",
+    "blue"
+   ]
+  ],
+  "confidence": "medium"
+ }
+}

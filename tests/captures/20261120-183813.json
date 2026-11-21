@@ -1,0 +1,443 @@
+{
+ "all_lines": [
+  [
+   "Diablo II: Resurrected",
+   "white",
+   [
+    251,
+    253,
+    251
+   ],
+   26,
+   8,
+   110,
+   10
+  ],
+  [
+   "STASH",
+   "gold",
+   [
+    208,
+    192,
+    142
+   ],
+   351,
+   158,
+   62,
+   17
+  ],
+  [
+   "PERS",
+   "gray",
+   [
+    141,
+    154,
+    157
+   ],
+   165,
+   203,
+   28,
+   8
+  ],
+  [
+   "TWO-HAND DAmAGE: 87 TO 172",
+   "white",
+   [
+    242,
+    242,
+    242
+   ],
+   301,
+   240,
+   349,
+   15
+  ],
+  [
+   "DURABILITY: 26 oeu26",
+   "white",
+   [
+    212,
+    212,
+    212
+   ],
+   358,
+   265,
+   237,
+   21
+  ],
+  [
+   "REQUIRED DEXTERIT+: 81",
+   "white",
+   [
+    214,
+    214,
+    214
+   ],
+   342,
+   287,
+   267,
+   21
+  ],
+  [
+   "REQUIRED STRENGTH: i145",
+   "white",
+   [
+    235,
+    235,
+    235
+   ],
+   339,
+   315,
+   276,
+   17
+  ],
+  [
+   "REQUIRED LEVEL : 63",
+   "white",
+   [
+    238,
+    238,
+    238
+   ],
+   367,
+   342,
+   219,
+   15
+  ],
+  [
+   "FAST ATTACK SPEED",
+   "white",
+   [
+    234,
+    234,
+    234
+   ],
+   458,
+   365,
+   215,
+   16
+  ],
+  [
+   "SWORD CLASS -",
+   "white",
+   [
+    239,
+    239,
+    239
+   ],
+   282,
+   366,
+   161,
+   15
+  ],
+  [
+   "ETHEREAL (CANNOT BE -REPAIRED), SOCKETED (5)",
+   "blue",
+   [
+    118,
+    118,
+    221
+   ],
+   206,
+   389,
+   537,
+   19
+  ],
+  [
+   "SHIFT + LEFT CLICK TO EQUIP",
+   "gray",
+   [
+    148,
+    148,
+    148
+   ],
+   315,
+   425,
+   324,
+   17
+  ],
+  [
+   "CTRL",
+   "white",
+   [
+    164,
+    164,
+    164
+   ],
+   237,
+   451,
+   50,
+   15
+  ],
+  [
+   "LEFT C LICIVO rnpvE TO INVENTORY",
+   "gray",
+   [
+    139,
+    139,
+    139
+   ],
+   324,
+   451,
+   394,
+   21
+  ],
+  [
+   "HOLD SHIFT!O Corn PARE",
+   "gray",
+   [
+    154,
+    154,
+    154
+   ],
+   341,
+   476,
+   270,
+   18
+  ],
+  [
+   "Ormus@",
+   "gold",
+   [
+    187,
+    172,
+    128
+   ],
+   780,
+   516,
+   61,
+   14
+  ],
+  [
+   "Alkor",
+   "gold",
+   [
+    200,
+    184,
+    136
+   ],
+   908,
+   315,
+   41,
+   12
+  ],
+  [
+   "'Stash",
+   "white",
+   [
+    215,
+    216,
+    218
+   ],
+   909,
+   468,
+   66,
+   23
+  ],
+  [
+   "eDeckai\u2022d Cain",
+   "gold",
+   [
+    191,
+    177,
+    132
+   ],
+   882,
+   494,
+   108,
+   14
+  ],
+  [
+   "o",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1844,
+   6,
+   11,
+   10
+  ],
+  [
+   "INVENTORY",
+   "gold",
+   [
+    206,
+    191,
+    141
+   ],
+   1476,
+   160,
+   120,
+   16
+  ],
+  [
+   "TIANA: 428 / 428",
+   "white",
+   [
+    241,
+    241,
+    241
+   ],
+   1344,
+   840,
+   158,
+   19
+  ],
+  [
+   "x",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1890,
+   6,
+   10,
+   10
+  ],
+  [
+   "\u2014485475",
+   "gold",
+   [
+    206,
+    190,
+    130
+   ],
+   312,
+   758,
+   99,
+   21
+  ],
+  [
+   "\u2014LIFE:",
+   "white",
+   [
+    237,
+    237,
+    237
+   ],
+   405,
+   841,
+   53,
+   14
+  ],
+  [
+   "1273 / 1273",
+   "white",
+   [
+    238,
+    238,
+    238
+   ],
+   471,
+   840,
+   107,
+   19
+  ]
+ ],
+ "tooltip": [
+  [
+   "TWO-HAND DAmAGE: 87 TO 172",
+   "white"
+  ],
+  [
+   "DURABILITY: 26 oeu26",
+   "white"
+  ],
+  [
+   "REQUIRED DEXTERIT+: 81",
+   "white"
+  ],
+  [
+   "REQUIRED STRENGTH: i145",
+   "white"
+  ],
+  [
+   "REQUIRED LEVEL : 63",
+   "white"
+  ],
+  [
+   "FAST ATTACK SPEED",
+   "white"
+  ],
+  [
+   "ETHEREAL (CANNOT BE -REPAIRED), SOCKETED (5)",
+   "blue"
+  ],
+  [
+   "SHIFT + LEFT CLICK TO EQUIP",
+   "gray"
+  ],
+  [
+   "CTRL",
+   "white"
+  ],
+  [
+   "HOLD SHIFT!O Corn PARE",
+   "gray"
+  ]
+ ],
+ "parsed": {
+  "category": "unknown",
+  "name": "TWO-HAND DAmAGE: 87 TO 172",
+  "base": "",
+  "stats": [
+   "FAST ATTACK SPEED",
+   "ETHEREAL (CANNOT BE -REPAIRED), SOCKETED (5)",
+   "CTRL",
+   "HOLD SHIFT!O Corn PARE"
+  ],
+  "defense": null,
+  "ethereal": true,
+  "sockets": 5,
+  "unidentified": false,
+  "superior": false,
+  "raw": [
+   [
+    "TWO-HAND DAmAGE: 87 TO 172",
+    "white"
+   ],
+   [
+    "DURABILITY: 26 oeu26",
+    "white"
+   ],
+   [
+    "REQUIRED DEXTERIT+: 81",
+    "white"
+   ],
+   [
+    "REQUIRED STRENGTH: i145",
+    "white"
+   ],
+   [
+    "REQUIRED LEVEL : 63",
+    "white"
+   ],
+   [
+    "FAST ATTACK SPEED",
+    "white"
+   ],
+   [
+    "ETHEREAL (CANNOT BE -REPAIRED), SOCKETED (5)",
+    "blue"
+   ],
+   [
+    "SHIFT + LEFT CLICK TO EQUIP",
+    "gray"
+   ],
+   [
+    "CTRL",
+    "white"
+   ],
+   [
+    "HOLD SHIFT!O Corn PARE",
+    "gray"
+   ]
+  ],
+  "confidence": "low"
+ }
+}

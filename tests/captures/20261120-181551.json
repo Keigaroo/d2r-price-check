@@ -1,0 +1,310 @@
+{
+ "all_lines": [
+  [
+   "o",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   977,
+   6,
+   11,
+   10
+  ],
+  [
+   "x",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1023,
+   6,
+   10,
+   10
+  ],
+  [
+   "Alkor",
+   "gold",
+   [
+    199,
+    184,
+    136
+   ],
+   63,
+   313,
+   41,
+   12
+  ],
+  [
+   "- a.'Stashs",
+   "white",
+   [
+    216,
+    215,
+    214
+   ],
+   58,
+   481,
+   72,
+   12
+  ],
+  [
+   ".Deckard Cain",
+   "gold",
+   [
+    194,
+    180,
+    133
+   ],
+   35,
+   497,
+   105,
+   12
+  ],
+  [
+   "INVENTORY",
+   "gold",
+   [
+    206,
+    191,
+    141
+   ],
+   609,
+   160,
+   120,
+   16
+  ],
+  [
+   "OPAL VEIN",
+   "gold",
+   [
+    207,
+    192,
+    142
+   ],
+   530,
+   198,
+   101,
+   15
+  ],
+  [
+   "RING",
+   "gold",
+   [
+    210,
+    194,
+    143
+   ],
+   557,
+   224,
+   49,
+   13
+  ],
+  [
+   "REQUIRED LEVEL : 5\u00d8",
+   "white",
+   [
+    236,
+    236,
+    236
+   ],
+   469,
+   248,
+   224,
+   17
+  ],
+  [
+   "2% CHANCE TO CAST LEVEL 15 FLAmE WAVE ON ATTACK",
+   "blue",
+   [
+    125,
+    125,
+    235
+   ],
+   274,
+   273,
+   612,
+   15
+  ],
+  [
+   "+10% FASTER CAST RATE",
+   "blue",
+   [
+    128,
+    128,
+    239
+   ],
+   445,
+   298,
+   271,
+   15
+  ],
+  [
+   "TO m AGIC SKILL D A m AGE",
+   "blue",
+   [
+    129,
+    129,
+    241
+   ],
+   473,
+   323,
+   270,
+   15
+  ],
+  [
+   "ALL RESISTANCES +7",
+   "blue",
+   [
+    124,
+    124,
+    233
+   ],
+   469,
+   348,
+   221,
+   16
+  ],
+  [
+   "+3 LIFE AFTER EACH KILL",
+   "blue",
+   [
+    127,
+    127,
+    239
+   ],
+   444,
+   373,
+   275,
+   15
+  ],
+  [
+   "\u00b1 I TO m ANA AFTER EACH KILL",
+   "blue",
+   [
+    128,
+    128,
+    240
+   ],
+   417,
+   398,
+   328,
+   15
+  ],
+  [
+   "SHIFT + LEFT CLICK TO UNEQUIP",
+   "gray",
+   [
+    148,
+    148,
+    148
+   ],
+   401,
+   433,
+   358,
+   17
+  ],
+  [
+   "CTRL + LEFT CLICK TO movE",
+   "gray",
+   [
+    154,
+    154,
+    154
+   ],
+   425,
+   458,
+   312,
+   15
+  ],
+  [
+   "aanaare",
+   "red",
+   [
+    113,
+    85,
+    92
+   ],
+   625,
+   587,
+   273,
+   46
+  ],
+  [
+   "MANA: 428 [428",
+   "white",
+   [
+    226,
+    226,
+    225
+   ],
+   471,
+   837,
+   164,
+   21
+  ]
+ ],
+ "tooltip": [
+  [
+   "ALL RESISTANCES +7",
+   "blue"
+  ],
+  [
+   "+3 LIFE AFTER EACH KILL",
+   "blue"
+  ],
+  [
+   "\u00b1 I TO m ANA AFTER EACH KILL",
+   "blue"
+  ],
+  [
+   "SHIFT + LEFT CLICK TO UNEQUIP",
+   "gray"
+  ],
+  [
+   "CTRL + LEFT CLICK TO movE",
+   "gray"
+  ]
+ ],
+ "parsed": {
+  "category": "unknown",
+  "name": "ALL RESISTANCES +7",
+  "base": "",
+  "stats": [
+   "+3 LIFE AFTER EACH KILL",
+   "\u00b1 I TO m ANA AFTER EACH KILL"
+  ],
+  "defense": null,
+  "ethereal": false,
+  "sockets": null,
+  "unidentified": false,
+  "superior": false,
+  "raw": [
+   [
+    "ALL RESISTANCES +7",
+    "blue"
+   ],
+   [
+    "+3 LIFE AFTER EACH KILL",
+    "blue"
+   ],
+   [
+    "\u00b1 I TO m ANA AFTER EACH KILL",
+    "blue"
+   ],
+   [
+    "SHIFT + LEFT CLICK TO UNEQUIP",
+    "gray"
+   ],
+   [
+    "CTRL + LEFT CLICK TO movE",
+    "gray"
+   ]
+  ],
+  "confidence": "low"
+ }
+}

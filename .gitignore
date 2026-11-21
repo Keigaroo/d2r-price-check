@@ -1,8 +1,8 @@
 __pycache__/
 *.pyc
 .venv/
-cache/
-captures/
+/cache/
+/captures/
 config.json
 build/
 dist/
