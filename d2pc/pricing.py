@@ -101,26 +101,56 @@ def item_features(item, properties):
     return feats
 
 
+# How much buyers care about a stat (rough D2 trading consensus). Unlisted stats count 1.
+_WEIGHTS = [
+    (r"faster cast rate|to all skills|skills\b|all resistances|life stolen|mana stolen|"
+     r"to strength|to dexterity|enhanced damage|increased attack speed|faster run|crushing blow|"
+     r"deadly strike|socketed|ethereal|to life|faster hit recovery|enhanced defense", 3.0),
+    (r"resist \+|to mana$|to mana \(|cannot be frozen|open wounds|requirements", 2.0),
+    (r"better chance of getting magic items|to energy|to vitality|^defense$", 1.0),
+    (r"damage reduced by|half freeze", 0.7),
+    (r"after each kill|minimum damage|maximum damage|replenish life|poison length", 0.5),
+    (r"attack rating|extra gold|chance to cast|charges|light radius|stamina|"
+     r"minimum (fire|cold|lightning|poison)|maximum (fire|cold|lightning|poison)|poison damage over", 0.3),
+]
+
+
+def stat_weight(name):
+    n = name.lower()
+    for pat, w in _WEIGHTS:
+        if re.search(pat, n):
+            return w
+    return 1.0
+
+
 def similarity(mine, theirs):
-    """0..1 — how alike two items' rolls are. Neutral (0.7) when neither side lists rolls."""
-    keys = set(mine) | set(theirs)
-    keys = {k for k in keys if not isinstance(mine.get(k, theirs.get(k)), str)}
+    """0..1 - how alike two items are, weighted by how much buyers care about each stat.
+    A sold item with a valuable stat that mine lacks isn't comparable at all.
+    Neutral (0.7) when neither side lists any rolls."""
+    keys = {k for k in set(mine) | set(theirs) if not isinstance(mine.get(k, theirs.get(k)), str)}
     if not keys:
         return 0.7
-    scores = []
+    num = den = 0.0
     for k in keys:
+        w = stat_weight(k)
         a, b = mine.get(k), theirs.get(k)
         if isinstance(a, bool) or isinstance(b, bool):
-            scores.append(1.0 if bool(a) == bool(b) else 0.15)
-        elif a is None or b is None:
-            # Listing shows a stat my item doesn't have (or vice versa).
-            # (A listing with an extra stat is usually worth more than mine.)
-            scores.append(0.3 if a is None else 0.55)
+            sc = 1.0 if bool(a) == bool(b) else 0.15
+        elif a is None:
+            sc = 0.0 if w >= 2 else 0.4     # theirs has a stat mine lacks: theirs is worth more
+        elif b is None:
+            sc = 0.5 if w >= 2 else 0.6     # mine has an extra stat
         else:
             a, b = float(a), float(b)
             m = max(abs(a), abs(b), 1.0)
-            scores.append(max(0.0, 1 - 2 * abs(a - b) / m))
-    return (sum(scores) / len(scores)) ** 2
+            sc = max(0.0, 1 - 2 * abs(a - b) / m)
+        num += w * sc
+        den += w
+    return (num / den) ** 2
+
+
+def valuable_stats(feats):
+    return [k for k in feats if stat_weight(k) >= 2]
 
 
 # ---------------------------------------------------------------- statistics
@@ -264,6 +294,12 @@ class Pricer:
                 w *= 0.5 ** (age / 14)  # older trades count less (half weight every 2 weeks)
                 out.append(Comparable(v, txt, w, age, lp, is_sold))
             return out
+
+        if item.category in ("rare", "magic", "crafted") and feats and not valuable_stats(feats):
+            return Estimate(True, product=product, product_url=self.t.product_url(product), features=feats,
+                            runes=runes, confidence="low",
+                            message="None of its stats are ones buyers pay for (FCR, resists, skills, leech, "
+                                    "Str/Dex, life...). Items like this almost never sell - vendor value.")
 
         sold_c = comps(sold, True)
         act_c = comps(active, False)

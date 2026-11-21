@@ -46,6 +46,7 @@ jobs:
           python tests/test_tooltip.py
           python tests/test_real_captures.py
           python tests/test_pricer.py
+          python tests/test_rare_value.py
       - name: Build exe
         if: steps.ver.outputs.exists == 'false'
         run: >
