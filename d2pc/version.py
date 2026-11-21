@@ -8,3 +8,5 @@ __version__ = "1.2.0"
 # "owner/repository" on GitHub. Filled in once the repository exists.
 GITHUB_REPO = "Keigaroo/d2r-price-check"
 EXE_ASSET_NAME = "D2RPriceCheck.exe"
+
+# Changing __version__ and pushing to main publishes a new release automatically.

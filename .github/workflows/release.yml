@@ -1,10 +1,14 @@
-# Builds D2RPriceCheck.exe on a Windows machine and publishes it as a GitHub release
-# whenever a version tag (e.g. v1.2.1) is pushed. Every installed copy picks it up on next start.
+# Builds D2RPriceCheck.exe on a Windows machine and publishes it as a GitHub release.
+# Runs when d2pc/version.py changes on main (or by hand from the Actions tab).
+# If a release for that version already exists, nothing happens.
+# Every installed copy (exe or zip install) picks up the new release the next time it starts.
 name: Build and release
 
 on:
   push:
-    tags: ["v*"]
+    branches: [main]
+    paths: ["d2pc/version.py"]
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,21 +21,33 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Read version
+        id: ver
+        shell: bash
+        run: |
+          v=$(python -c "import re;print(re.search(r'__version__ = \"([^\"]+)\"', open('d2pc/version.py').read()).group(1))")
+          echo "tag=v$v" >> "$GITHUB_OUTPUT"
+          if gh release view "v$v" -R "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"; echo "Release v$v already exists - nothing to do."
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
+        env:
+          GH_TOKEN: ${{ github.token }}
       - name: Install
+        if: steps.ver.outputs.exists == 'false'
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt pyinstaller
-      - name: Check version matches tag
-        shell: bash
-        run: |
-          v=$(python -m d2pc.main --version)
-          test "v$v" = "${GITHUB_REF_NAME}" || { echo "version.py says $v but tag is ${GITHUB_REF_NAME}"; exit 1; }
       - name: Tests
+        if: steps.ver.outputs.exists == 'false'
         run: |
           python tests/test_core.py
           python tests/test_tooltip.py
           python tests/test_real_captures.py
+          python tests/test_pricer.py
       - name: Build exe
+        if: steps.ver.outputs.exists == 'false'
         run: >
           pyinstaller --onefile --name D2RPriceCheck --console
           --add-data "d2pc/data/items.json;d2pc/data"
@@ -39,8 +55,14 @@ jobs:
           --hidden-import keyboard --hidden-import mss
           run_exe.py
       - name: Smoke test exe
+        if: steps.ver.outputs.exists == 'false'
         run: dist\D2RPriceCheck.exe --version
-      - uses: softprops/action-gh-release@v2
+      - name: Publish release
+        if: steps.ver.outputs.exists == 'false'
+        uses: softprops/action-gh-release@v2
         with:
+          tag_name: ${{ steps.ver.outputs.tag }}
+          target_commitish: ${{ github.sha }}
+          name: D2R Price Check ${{ steps.ver.outputs.tag }}
           files: dist/D2RPriceCheck.exe
           generate_release_notes: true
