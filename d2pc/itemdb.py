@@ -24,6 +24,15 @@ def fix_ocr(s: str) -> str:
     return s
 
 
+def ocr_key(s: str) -> str:
+    """Matching key that is blind to how Windows OCR garbles D2R's capital M
+    ('ITIESH' / 'rnESH' / 'm ESH' -> 'mesh'). Applied to BOTH sides of a comparison."""
+    s = s.lower().replace(" ", "").replace("'", "")
+    for bad in ("itie", "iti", "rti", "ttl", "rn", "ff1", "fl1"):
+        s = s.replace(bad, "m" if bad not in ("itie",) else "me")
+    return s
+
+
 def norm(s: str) -> str:
     s = s.replace("’", "'").replace("`", "'").replace("—", "-").replace("–", "-")
     s = re.sub(r"\s+", " ", s).strip()
@@ -50,7 +59,7 @@ class ItemDB:
             return None, 0
         # OCR of D2R's capitals often splits words ('OPAL VEIN', 'O P ALVEI N'): compare without spaces.
         m = process.extractOne(norm(text), list(choices), scorer=fuzz.ratio,
-                               processor=lambda s: s.lower().replace(" ", ""), score_cutoff=cutoff)
+                               processor=ocr_key, score_cutoff=cutoff)
         return (m[0], m[1]) if m else (None, 0)
 
     def match_unique(self, t, cutoff=84): return self._best(t, self.uniques, cutoff)

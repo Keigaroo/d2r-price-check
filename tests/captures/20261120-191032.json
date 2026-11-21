@@ -1,0 +1,556 @@
+{
+ "all_lines": [
+  [
+   "Diablo II: Resurrected",
+   "white",
+   [
+    251,
+    253,
+    251
+   ],
+   26,
+   8,
+   110,
+   10
+  ],
+  [
+   "o",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1844,
+   6,
+   11,
+   10
+  ],
+  [
+   "INVENTORY",
+   "gold",
+   [
+    206,
+    191,
+    141
+   ],
+   1476,
+   160,
+   119,
+   16
+  ],
+  [
+   "ENTROPY GRASP",
+   "yellow",
+   [
+    249,
+    249,
+    124
+   ],
+   1495,
+   349,
+   168,
+   15
+  ],
+  [
+   "RING",
+   "yellow",
+   [
+    252,
+    252,
+    125
+   ],
+   1554,
+   376,
+   49,
+   13
+  ],
+  [
+   "REQUIRED LEVEL : 34",
+   "white",
+   [
+    238,
+    238,
+    238
+   ],
+   1468,
+   401,
+   219,
+   15
+  ],
+  [
+   "x",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1890,
+   6,
+   10,
+   10
+  ],
+  [
+   "Defiler",
+   "white",
+   [
+    221,
+    221,
+    221
+   ],
+   24,
+   111,
+   40,
+   12
+  ],
+  [
+   "TheDHedBO",
+   "gold",
+   [
+    192,
+    177,
+    131
+   ],
+   24,
+   208,
+   70,
+   12
+  ],
+  [
+   "Viverrrisn\u2022l",
+   "gold",
+   [
+    170,
+    157,
+    116
+   ],
+   23,
+   304,
+   65,
+   14
+  ],
+  [
+   "ViVYprPrisn\u20221",
+   "gold",
+   [
+    173,
+    160,
+    118
+   ],
+   23,
+   399,
+   65,
+   14
+  ],
+  [
+   "ViperPrism",
+   "gold",
+   [
+    175,
+    160,
+    118
+   ],
+   23,
+   495,
+   65,
+   14
+  ],
+  [
+   "Defiler",
+   "white",
+   [
+    221,
+    221,
+    221
+   ],
+   106,
+   111,
+   40,
+   12
+  ],
+  [
+   "REJUVENATION",
+   "white",
+   [
+    227,
+    226,
+    226
+   ],
+   594,
+   576,
+   155,
+   17
+  ],
+  [
+   "POTION",
+   "white",
+   [
+    242,
+    242,
+    242
+   ],
+   763,
+   576,
+   74,
+   13
+  ],
+  [
+   "OIL 'POTION \u2022",
+   "white",
+   [
+    241,
+    230,
+    223
+   ],
+   623,
+   656,
+   141,
+   15
+  ],
+  [
+   "[Game] Zoob: already got",
+   "white",
+   [
+    228,
+    223,
+    212
+   ],
+   26,
+   680,
+   243,
+   21
+  ],
+  [
+   "[Game] Baal says: *Laughing*",
+   "gold",
+   [
+    187,
+    170,
+    125
+   ],
+   26,
+   714,
+   288,
+   23
+  ],
+  [
+   "[Game] ViperPrism@Vipef3 jollied our World.",
+   "gold",
+   [
+    191,
+    174,
+    139
+   ],
+   26,
+   747,
+   431,
+   25
+  ],
+  [
+   "Diablok minions grow stronger.",
+   "gold",
+   [
+    164,
+    143,
+    102
+   ],
+   27,
+   776,
+   298,
+   32
+  ],
+  [
+   "LIFE: 2517 / 2517",
+   "white",
+   [
+    226,
+    224,
+    224
+   ],
+   417,
+   841,
+   160,
+   19
+  ],
+  [
+   "p Type here to search",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   60,
+   1052,
+   156,
+   17
+  ],
+  [
+   "CHANCE TO CAST LEVEL 5 CHARGED BOLT WHEN STRUCK",
+   "blue",
+   [
+    124,
+    124,
+    232
+   ],
+   1304,
+   425,
+   601,
+   16
+  ],
+  [
+   "+4 TO m A x 1 mum D A m AGE",
+   "blue",
+   [
+    132,
+    132,
+    247
+   ],
+   1439,
+   451,
+   278,
+   14
+  ],
+  [
+   "+110 TO ATTACK RATING",
+   "blue",
+   [
+    126,
+    126,
+    236
+   ],
+   1444,
+   475,
+   270,
+   15
+  ],
+  [
+   "31% EXTRA GOLD FROm m ONSTERS",
+   "blue",
+   [
+    127,
+    127,
+    238
+   ],
+   1393,
+   499,
+   373,
+   17
+  ],
+  [
+   "5% BETTER CHANCE OF GETTING m AGIC I TETTIS",
+   "blue",
+   [
+    129,
+    129,
+    241
+   ],
+   1327,
+   525,
+   503,
+   15
+  ],
+  [
+   "SHIFT + LEFT CLICK TO EQUIP*",
+   "gray",
+   [
+    145,
+    145,
+    145
+   ],
+   1417,
+   560,
+   340,
+   17
+  ],
+  [
+   "CTRL + LEFT CLICK TO DROP",
+   "gray",
+   [
+    154,
+    154,
+    154
+   ],
+   1424,
+   585,
+   308,
+   15
+  ],
+  [
+   "HOLD SHIFT TO Corn PARE",
+   "white",
+   [
+    159,
+    159,
+    159
+   ],
+   1443,
+   610,
+   271,
+   15
+  ],
+  [
+   "g 5969",
+   "gold",
+   [
+    207,
+    189,
+    128
+   ],
+   1465,
+   754,
+   76,
+   21
+  ],
+  [
+   "m ANA",
+   "white",
+   [
+    254,
+    254,
+    254
+   ],
+   1338,
+   841,
+   53,
+   14
+  ],
+  [
+   "7:10 PM",
+   "white",
+   [
+    214,
+    214,
+    214
+   ],
+   1814,
+   1046,
+   42,
+   10
+  ],
+  [
+   "11/20/2026",
+   "white",
+   [
+    214,
+    214,
+    214
+   ],
+   1806,
+   1063,
+   58,
+   11
+  ]
+ ],
+ "tooltip": [
+  [
+   "ENTROPY GRASP",
+   "yellow"
+  ],
+  [
+   "RING",
+   "yellow"
+  ],
+  [
+   "REQUIRED LEVEL : 34",
+   "white"
+  ],
+  [
+   "CHANCE TO CAST LEVEL 5 CHARGED BOLT WHEN STRUCK",
+   "blue"
+  ],
+  [
+   "+4 TO m A x 1 mum D A m AGE",
+   "blue"
+  ],
+  [
+   "+110 TO ATTACK RATING",
+   "blue"
+  ],
+  [
+   "31% EXTRA GOLD FROm m ONSTERS",
+   "blue"
+  ],
+  [
+   "5% BETTER CHANCE OF GETTING m AGIC I TETTIS",
+   "blue"
+  ],
+  [
+   "SHIFT + LEFT CLICK TO EQUIP*",
+   "gray"
+  ],
+  [
+   "CTRL + LEFT CLICK TO DROP",
+   "gray"
+  ],
+  [
+   "HOLD SHIFT TO Corn PARE",
+   "white"
+  ]
+ ],
+ "parsed": {
+  "category": "rare",
+  "name": "ENTROPY GRASP",
+  "base": "Ring",
+  "stats": [
+   "CHANCE TO CAST LEVEL 5 CHARGED BOLT WHEN STRUCK",
+   "+4 TO m A x 1 mum D A m AGE",
+   "+110 TO ATTACK RATING",
+   "31% EXTRA GOLD FROm m ONSTERS",
+   "5% BETTER CHANCE OF GETTING m AGIC I TETTIS"
+  ],
+  "defense": null,
+  "ethereal": false,
+  "sockets": null,
+  "unidentified": false,
+  "superior": false,
+  "raw": [
+   [
+    "ENTROPY GRASP",
+    "yellow"
+   ],
+   [
+    "RING",
+    "yellow"
+   ],
+   [
+    "REQUIRED LEVEL : 34",
+    "white"
+   ],
+   [
+    "CHANCE TO CAST LEVEL 5 CHARGED BOLT WHEN STRUCK",
+    "blue"
+   ],
+   [
+    "+4 TO m A x 1 mum D A m AGE",
+    "blue"
+   ],
+   [
+    "+110 TO ATTACK RATING",
+    "blue"
+   ],
+   [
+    "31% EXTRA GOLD FROm m ONSTERS",
+    "blue"
+   ],
+   [
+    "5% BETTER CHANCE OF GETTING m AGIC I TETTIS",
+    "blue"
+   ],
+   [
+    "SHIFT + LEFT CLICK TO EQUIP*",
+    "gray"
+   ],
+   [
+    "CTRL + LEFT CLICK TO DROP",
+    "gray"
+   ],
+   [
+    "HOLD SHIFT TO Corn PARE",
+    "white"
+   ]
+  ],
+  "confidence": "high"
+ }
+}

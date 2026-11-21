@@ -30,7 +30,8 @@ def _spaced(s):
 
 
 def _skeleton(s):
-    return _spaced(s).replace(" ", "")   # spaces dropped: OCR splits words ('D A M AGE')
+    from .itemdb import ocr_key
+    return ocr_key(_spaced(s))   # spaces dropped and garbled M's evened out ('D A ITI AGE')
 
 
 def _likeness(line, template):

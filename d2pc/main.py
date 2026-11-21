@@ -19,7 +19,7 @@ from .parser import parse
 from .pricing import Pricer, describe_value
 
 
-def save_capture(cfg, img, lines, block, item):
+def save_capture(cfg, img, lines, block, item, cursor=None):
     if not cfg.get("save_captures"):
         return
     stamp = time.strftime("%Y%m%d-%H%M%S")
@@ -28,6 +28,7 @@ def save_capture(cfg, img, lines, block, item):
         img.save(base + ".png")
         with open(base + ".json", "w", encoding="utf-8") as f:
             json.dump({
+                "cursor": cursor,
                 "all_lines": [(l.text, l.color, l.rgb, round(l.x), round(l.y), round(l.w), round(l.h)) for l in lines],
                 "tooltip": [(l.text, l.color) for l in block],
                 "parsed": {k: v for k, v in item.__dict__.items()},
@@ -53,6 +54,9 @@ def analyse_image(img, cursor_x, cursor_y, screen_h, db):
     med_h = sorted(l.h for l in lines)[len(lines) // 2] if lines else 15
     # Nearest block first: the first block that is a real item wins, so text elsewhere on the
     # screen (NPC names, stash labels) can never override the item under the mouse.
+    # Real tooltips always have several lines; one-line text is a ground-item label (Alt),
+    # an NPC name or a panel title, never the item under the mouse.
+    cands = [b for b in cands if len(b) >= 2]
     for blk in cands[:4]:
         x0 = min(l.x for l in blk); x1 = max(l.x + l.w for l in blk)
         above = [b for b in cands if b is not blk
@@ -129,7 +133,7 @@ def run_hotkey_app(cfg, db):
             img, ox, oy, cx, cy, mon = jobs.get()
             try:
                 lines, block, item = analyse_image(img, cx - ox, cy - oy, mon["height"], db)
-                save_capture(cfg, img, lines, block, item)
+                save_capture(cfg, img, lines, block, item, (cx - ox, cy - oy))
                 if item.category in ("none", "unknown"):
                     results.put(("error", cx, cy,
                                  "Couldn't find the item's name in the tooltip. Keep the mouse still "

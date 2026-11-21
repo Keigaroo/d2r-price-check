@@ -1,0 +1,526 @@
+{
+ "all_lines": [
+  [
+   "Diablo II: Resurrected",
+   "white",
+   [
+    251,
+    253,
+    251
+   ],
+   26,
+   8,
+   110,
+   10
+  ],
+  [
+   "542 GOLD 'S.A.-",
+   "white",
+   [
+    210,
+    191,
+    193
+   ],
+   467,
+   290,
+   156,
+   20
+  ],
+  [
+   "517",
+   "white",
+   [
+    253,
+    252,
+    252
+   ],
+   481,
+   841,
+   28,
+   13
+  ],
+  [
+   "INVENTORY",
+   "gold",
+   [
+    206,
+    191,
+    141
+   ],
+   1476,
+   160,
+   119,
+   16
+  ],
+  [
+   "GREAT POLEAXE",
+   "gray",
+   [
+    125,
+    125,
+    125
+   ],
+   1454,
+   258,
+   168,
+   15
+  ],
+  [
+   "TWO-HAND DAmAGE: 69 TO 190",
+   "white",
+   [
+    238,
+    238,
+    238
+   ],
+   1361,
+   283,
+   353,
+   15
+  ],
+  [
+   "DURABILITY : 28 OF 28",
+   "white",
+   [
+    240,
+    240,
+    240
+   ],
+   1420,
+   308,
+   237,
+   15
+  ],
+  [
+   "REQUIRED DEXTERITY: 7 @",
+   "white",
+   [
+    235,
+    235,
+    235
+   ],
+   1400,
+   333,
+   278,
+   17
+  ],
+  [
+   "REQUIRED STRENGTH: 134",
+   "white",
+   [
+    235,
+    235,
+    235
+   ],
+   1400,
+   358,
+   276,
+   17
+  ],
+  [
+   "REQUIRED LEVEL: 63",
+   "white",
+   [
+    238,
+    238,
+    238
+   ],
+   1429,
+   383,
+   219,
+   16
+  ],
+  [
+   "POLEARm CLASS - N0Rff1AL ATTACK SPEED",
+   "white",
+   [
+    237,
+    237,
+    237
+   ],
+   1311,
+   408,
+   456,
+   15
+  ],
+  [
+   "ETHEREAL (CANNOT BE REPAIRED), SOCKETED (5)",
+   "blue",
+   [
+    115,
+    115,
+    216
+   ],
+   1268,
+   431,
+   538,
+   19
+  ],
+  [
+   "SHIFT+ LEFT CLICK TO EQUIP",
+   "gray",
+   [
+    148,
+    148,
+    148
+   ],
+   1377,
+   467,
+   324,
+   17
+  ],
+  [
+   "CTRL-\u2014 LEFT CLICK DROP",
+   "gray",
+   [
+    127,
+    126,
+    125
+   ],
+   1384,
+   491,
+   308,
+   23
+  ],
+  [
+   "HOLD SHIFT TO CornfARE",
+   "white",
+   [
+    162,
+    162,
+    162
+   ],
+   1402,
+   517,
+   271,
+   15
+  ],
+  [
+   "g 23289",
+   "gold",
+   [
+    209,
+    193,
+    132
+   ],
+   1465,
+   754,
+   90,
+   21
+  ],
+  [
+   "/ 770",
+   "white",
+   [
+    226,
+    226,
+    226
+   ],
+   1452,
+   841,
+   56,
+   19
+  ],
+  [
+   "o",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1844,
+   6,
+   11,
+   10
+  ],
+  [
+   "7:31 PM",
+   "white",
+   [
+    214,
+    214,
+    214
+   ],
+   1814,
+   1046,
+   42,
+   10
+  ],
+  [
+   "11/20/2026",
+   "white",
+   [
+    214,
+    214,
+    214
+   ],
+   1806,
+   1063,
+   58,
+   11
+  ],
+  [
+   "x",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1890,
+   6,
+   10,
+   10
+  ],
+  [
+   "Defiler",
+   "white",
+   [
+    221,
+    221,
+    221
+   ],
+   24,
+   111,
+   40,
+   12
+  ],
+  [
+   "BLEEDER",
+   "gold",
+   [
+    197,
+    182,
+    135
+   ],
+   24,
+   208,
+   56,
+   11
+  ],
+  [
+   "Defiler",
+   "white",
+   [
+    221,
+    221,
+    221
+   ],
+   106,
+   111,
+   40,
+   12
+  ],
+  [
+   "159",
+   "white",
+   [
+    241,
+    241,
+    241
+   ],
+   786,
+   267,
+   33,
+   15
+  ],
+  [
+   "1982 GOLD",
+   "white",
+   [
+    236,
+    235,
+    235
+   ],
+   679,
+   295,
+   114,
+   15
+  ],
+  [
+   "TheDFe,4BO",
+   "gold",
+   [
+    193,
+    177,
+    131
+   ],
+   24,
+   304,
+   70,
+   12
+  ],
+  [
+   "ViperPrism",
+   "gold",
+   [
+    176,
+    161,
+    118
+   ],
+   23,
+   399,
+   65,
+   14
+  ],
+  [
+   "ViperPrism",
+   "gold",
+   [
+    177,
+    161,
+    118
+   ],
+   23,
+   495,
+   65,
+   14
+  ],
+  [
+   "ViperPrism",
+   "gold",
+   [
+    176,
+    161,
+    118
+   ],
+   23,
+   685,
+   65,
+   14
+  ],
+  [
+   "p Type here to search",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   60,
+   1052,
+   156,
+   17
+  ],
+  [
+   "LIFE",
+   "white",
+   [
+    249,
+    248,
+    248
+   ],
+   417,
+   841,
+   35,
+   15
+  ]
+ ],
+ "tooltip": [
+  [
+   "GREAT POLEAXE",
+   "gray"
+  ],
+  [
+   "TWO-HAND DAmAGE: 69 TO 190",
+   "white"
+  ],
+  [
+   "DURABILITY : 28 OF 28",
+   "white"
+  ],
+  [
+   "REQUIRED DEXTERITY: 7 @",
+   "white"
+  ],
+  [
+   "REQUIRED STRENGTH: 134",
+   "white"
+  ],
+  [
+   "REQUIRED LEVEL: 63",
+   "white"
+  ],
+  [
+   "POLEARm CLASS - N0Rff1AL ATTACK SPEED",
+   "white"
+  ],
+  [
+   "ETHEREAL (CANNOT BE REPAIRED), SOCKETED (5)",
+   "blue"
+  ],
+  [
+   "SHIFT+ LEFT CLICK TO EQUIP",
+   "gray"
+  ],
+  [
+   "CTRL-\u2014 LEFT CLICK DROP",
+   "gray"
+  ],
+  [
+   "HOLD SHIFT TO CornfARE",
+   "white"
+  ]
+ ],
+ "parsed": {
+  "category": "base",
+  "name": "GREAT POLEAXE",
+  "base": "Great Poleaxe",
+  "stats": [
+   "ETHEREAL (CANNOT BE REPAIRED), SOCKETED (5)"
+  ],
+  "defense": null,
+  "ethereal": true,
+  "sockets": 5,
+  "unidentified": false,
+  "superior": false,
+  "raw": [
+   [
+    "GREAT POLEAXE",
+    "gray"
+   ],
+   [
+    "TWO-HAND DAmAGE: 69 TO 190",
+    "white"
+   ],
+   [
+    "DURABILITY : 28 OF 28",
+    "white"
+   ],
+   [
+    "REQUIRED DEXTERITY: 7 @",
+    "white"
+   ],
+   [
+    "REQUIRED STRENGTH: 134",
+    "white"
+   ],
+   [
+    "REQUIRED LEVEL: 63",
+    "white"
+   ],
+   [
+    "POLEARm CLASS - N0Rff1AL ATTACK SPEED",
+    "white"
+   ],
+   [
+    "ETHEREAL (CANNOT BE REPAIRED), SOCKETED (5)",
+    "blue"
+   ],
+   [
+    "SHIFT+ LEFT CLICK TO EQUIP",
+    "gray"
+   ],
+   [
+    "CTRL-- LEFT CLICK DROP",
+    "gray"
+   ],
+   [
+    "HOLD SHIFT TO CornfARE",
+    "white"
+   ]
+  ],
+  "confidence": "high"
+ }
+}

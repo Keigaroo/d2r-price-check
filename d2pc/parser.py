@@ -106,7 +106,9 @@ def parse(lines, db: ItemDB) -> ParsedItem:
                 body_start += 1
         if max(uqs, sts, rws, ms) < 92:
             item.confidence = "medium"
-    elif base2 and b2s >= 90 and c1 in ("yellow", "orange", "unknown"):
+    elif (base2 and b2s >= 90 and c1 in ("yellow", "orange", "unknown")) or \
+            (c1 in ("yellow", "orange") and len(colors) > 1 and colors[1] == c1 and db.match_base(second, 70)[0]):
+        base2 = base2 if b2s >= 90 else db.match_base(second, 70)[0]
         # Two-line name with an unrecognised first line -> rare or crafted.
         item.category = "crafted" if c1 == "orange" else "rare"
         item.name, item.base = first, base2
