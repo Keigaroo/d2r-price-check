@@ -1,0 +1,7 @@
+pillow
+mss
+keyboard
+rapidfuzz
+curl_cffi
+requests
+winocr

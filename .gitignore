@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+cache/
+captures/
+config.json
+build/
+dist/
+*.spec
+d2pc.new/
+d2pc.old/

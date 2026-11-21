@@ -1,0 +1,68 @@
+D2R PRICE CHECK
+===============
+Hover an item in Diablo II: Resurrected, press Ctrl+D, and a window next to your
+mouse shows what similar items recently sold for on Traderie, priced in runes.
+
+Needs: Windows 10 or 11, internet connection.
+Prices are for: PC, Softcore, Ladder (see "Changing the market" below).
+
+
+INSTALL (one time, about 5 minutes)
+-----------------------------------
+1. Right-click "D2RPriceCheck.zip" and choose "Extract All...".
+2. In the box that opens, change the folder to:   C:\D2RPriceCheck
+   then click "Extract".
+3. Open the C:\D2RPriceCheck folder and double-click "Setup.bat".
+   - If a blue "Windows protected your PC" box appears: click "More info",
+     then "Run anyway". (It appears because the file isn't from a big company.)
+   - If Python isn't installed, Setup installs it for you.
+   - Wait until the window says "Setup finished" and shows SELFTEST PASSED,
+     then press any key to close it.
+   - Setup puts a "D2R Price Check" shortcut on your desktop.
+
+
+USE
+---
+1. Double-click "D2R Price Check" on your desktop. A black window opens and says
+   "D2R Price Check is running". Leave it open while you play.
+2. In D2R, hover your mouse over an item so its tooltip shows.
+3. Press Ctrl+D. The result appears next to your mouse after a few seconds.
+4. The result closes when you move the mouse away, or press Ctrl+D again.
+5. To quit, close the black window.
+
+If nothing happens when you press Ctrl+D: close the black window, right-click the
+desktop shortcut, choose "Run as administrator", and try again.
+If the result doesn't show over the game: press Alt+Enter in D2R (windowed mode).
+
+
+READING THE RESULT
+------------------
+Estimated value  - weighted middle price of recent sales of similar items
+Typical range    - where most of those sales landed
+Confidence       - HIGH / MEDIUM / LOW: how much matching trade data there was
+Most similar trades - the actual trades the estimate is based on
+Buttons: Traderie (opens the item's page), diablo2.io and d2jsp (copy the item
+name and open that site so you can paste it with Ctrl+V).
+
+
+CHANGING THE MARKET (non-ladder, hardcore, console)
+---------------------------------------------------
+After the first run, open C:\D2RPriceCheck\config.json in Notepad and change:
+   "mode": "softcore"    ->  "hardcore"
+   "ladder": true        ->  false        (for non-ladder)
+   "platform": "PC"      ->  "playstation", "xbox" or "switch"
+   "hotkey": "ctrl+d"    ->  any other key combination
+Save, close the black window, and start the program again.
+
+
+UPDATES
+-------
+Every time you start it, it checks for a newer version and installs it automatically
+(you'll see "Updating D2R Price Check ..." in the black window). Nothing to do.
+
+
+WHAT IT DOES AND DOESN'T DO
+---------------------------
+It only takes a screenshot of the area around your mouse and reads the text.
+It never reads game memory and never presses keys in the game.
+Prices come from Traderie's public trade data (latest 50 trades per item).
