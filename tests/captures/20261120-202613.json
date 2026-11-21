@@ -1,0 +1,505 @@
+{
+ "cursor": [
+  1600,
+  694
+ ],
+ "all_lines": [
+  [
+   "x",
+   "gray",
+   [
+    110,
+    111,
+    107
+   ],
+   1901,
+   25,
+   10,
+   11
+  ],
+  [
+   "Defiler",
+   "gold",
+   [
+    65,
+    53,
+    48
+   ],
+   33,
+   92,
+   40,
+   13
+  ],
+  [
+   "TheDFe3BO",
+   "gold",
+   [
+    66,
+    49,
+    39
+   ],
+   29,
+   284,
+   70,
+   13
+  ],
+  [
+   "ViperPrisvt1",
+   "gold",
+   [
+    95,
+    69,
+    46
+   ],
+   24,
+   475,
+   65,
+   14
+  ],
+  [
+   "ViperPrisnn",
+   "gold",
+   [
+    107,
+    77,
+    48
+   ],
+   21,
+   666,
+   65,
+   14
+  ],
+  [
+   "Defiler",
+   "gold",
+   [
+    73,
+    61,
+    52
+   ],
+   115,
+   94,
+   40,
+   12
+  ],
+  [
+   "Demon",
+   "gold",
+   [
+    83,
+    62,
+    41
+   ],
+   197,
+   96,
+   42,
+   12
+  ],
+  [
+   "POTION",
+   "white",
+   [
+    195,
+    184,
+    169
+   ],
+   595,
+   432,
+   74,
+   15
+  ],
+  [
+   "'HATCHET HANDS 11",
+   "unknown",
+   [
+    125,
+    100,
+    147
+   ],
+   280,
+   467,
+   210,
+   28
+  ],
+  [
+   "TheoriedBO",
+   "green",
+   [
+    129,
+    186,
+    91
+   ],
+   532,
+   506,
+   89,
+   15
+  ],
+  [
+   "ZAKAOm SHIELD",
+   "white",
+   [
+    202,
+    199,
+    171
+   ],
+   504,
+   526,
+   184,
+   19
+  ],
+  [
+   "BLADE BARRIEF",
+   "blue",
+   [
+    124,
+    124,
+    231
+   ],
+   1107,
+   674,
+   155,
+   17
+  ],
+  [
+   "SUPERIOR",
+   "white",
+   [
+    230,
+    230,
+    229
+   ],
+   1155,
+   754,
+   99,
+   17
+  ],
+  [
+   "WINGED HELm",
+   "blue",
+   [
+    124,
+    124,
+    231
+   ],
+   1045,
+   780,
+   153,
+   17
+  ],
+  [
+   "Baalssay$\u00e4ll.ughjpgl\u00fc.,",
+   "gold",
+   [
+    161,
+    133,
+    92
+   ],
+   98,
+   765,
+   265,
+   37
+  ],
+  [
+   "Type here to search",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   78,
+   1036,
+   127,
+   15
+  ],
+  [
+   "LIFE: 2519 / 2517",
+   "gold",
+   [
+    155,
+    115,
+    100
+   ],
+   410,
+   828,
+   161,
+   21
+  ],
+  [
+   "o",
+   "white",
+   [
+    201,
+    201,
+    200
+   ],
+   1854,
+   24,
+   11,
+   11
+  ],
+  [
+   "I NVENTORY",
+   "gold",
+   [
+    143,
+    136,
+    112
+   ],
+   1483,
+   171,
+   120,
+   18
+  ],
+  [
+   "STONE EmBLEm",
+   "gold",
+   [
+    109,
+    109,
+    62
+   ],
+   1526,
+   457,
+   165,
+   19
+  ],
+  [
+   "AmULET",
+   "gold",
+   [
+    107,
+    95,
+    50
+   ],
+   1565,
+   484,
+   88,
+   17
+  ],
+  [
+   "REQUIRED LEVEL ; 66",
+   "blue",
+   [
+    123,
+    124,
+    151
+   ],
+   1498,
+   508,
+   219,
+   19
+  ],
+  [
+   "+2 TO LIGHTNING SKILLS (SORCERESS ONLY)",
+   "blue",
+   [
+    103,
+    103,
+    190
+   ],
+   1369,
+   525,
+   475,
+   31
+  ],
+  [
+   "8% m ANA STOLEN PER HIT",
+   "blue",
+   [
+    85,
+    81,
+    139
+   ],
+   1466,
+   557,
+   284,
+   20
+  ],
+  [
+   "COLD RESIST 5%",
+   "blue",
+   [
+    85,
+    82,
+    113
+   ],
+   1506,
+   582,
+   200,
+   19
+  ],
+  [
+   "IS H IFT + LEFT CLICK' TO EQUIP",
+   "gray",
+   [
+    107,
+    102,
+    101
+   ],
+   1434,
+   616,
+   334,
+   22
+  ],
+  [
+   "CTRL + LEFT CLICK\u2022O DROP",
+   "gray",
+   [
+    97,
+    97,
+    101
+   ],
+   1451,
+   641,
+   308,
+   21
+  ],
+  [
+   "HOLD S H IFT Corn PARE",
+   "gray",
+   [
+    118,
+    116,
+    110
+   ],
+   1466,
+   666,
+   274,
+   21
+  ],
+  [
+   "\u2022 67614",
+   "gold",
+   [
+    161,
+    147,
+    109
+   ],
+   1461,
+   764,
+   88,
+   19
+  ],
+  [
+   "rnANA*7/\u00d8 / 770",
+   "white",
+   [
+    171,
+    161,
+    160
+   ],
+   1331,
+   839,
+   171,
+   31
+  ],
+  [
+   "8:26 PM",
+   "white",
+   [
+    214,
+    214,
+    214
+   ],
+   1803,
+   1064,
+   42,
+   10
+  ]
+ ],
+ "tooltip": [
+  [
+   "STONE EmBLEm",
+   "gold"
+  ],
+  [
+   "AmULET",
+   "gold"
+  ],
+  [
+   "REQUIRED LEVEL ; 66",
+   "blue"
+  ],
+  [
+   "+2 TO LIGHTNING SKILLS (SORCERESS ONLY)",
+   "blue"
+  ],
+  [
+   "8% m ANA STOLEN PER HIT",
+   "blue"
+  ],
+  [
+   "COLD RESIST 5%",
+   "blue"
+  ],
+  [
+   "IS H IFT + LEFT CLICK' TO EQUIP",
+   "gray"
+  ],
+  [
+   "CTRL + LEFT CLICK\u2022O DROP",
+   "gray"
+  ],
+  [
+   "HOLD S H IFT Corn PARE",
+   "gray"
+  ]
+ ],
+ "parsed": {
+  "category": "unknown",
+  "name": "STONE EmBLEm",
+  "base": "",
+  "stats": [
+   "AmULET",
+   "+2 TO LIGHTNING SKILLS (SORCERESS ONLY)",
+   "8% m ANA STOLEN PER HIT",
+   "COLD RESIST 5%",
+   "HOLD S H IFT Corn PARE"
+  ],
+  "defense": null,
+  "ethereal": false,
+  "sockets": null,
+  "unidentified": false,
+  "superior": false,
+  "raw": [
+   [
+    "STONE EmBLEm",
+    "gold"
+   ],
+   [
+    "AmULET",
+    "gold"
+   ],
+   [
+    "REQUIRED LEVEL ; 66",
+    "blue"
+   ],
+   [
+    "+2 TO LIGHTNING SKILLS (SORCERESS ONLY)",
+    "blue"
+   ],
+   [
+    "8% m ANA STOLEN PER HIT",
+    "blue"
+   ],
+   [
+    "COLD RESIST 5%",
+    "blue"
+   ],
+   [
+    "IS H IFT + LEFT CLICK' TO EQUIP",
+    "gray"
+   ],
+   [
+    "CTRL + LEFT CLICK\u2022O DROP",
+    "gray"
+   ],
+   [
+    "HOLD S H IFT Corn PARE",
+    "gray"
+   ]
+  ],
+  "confidence": "low"
+ }
+}

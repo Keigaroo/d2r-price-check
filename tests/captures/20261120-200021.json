@@ -1,0 +1,619 @@
+{
+ "cursor": [
+  1475,
+  587
+ ],
+ "all_lines": [
+  [
+   "Diablo II: Resurrected",
+   "white",
+   [
+    251,
+    253,
+    251
+   ],
+   26,
+   8,
+   110,
+   10
+  ],
+  [
+   "REJUVENATION POTION",
+   "white",
+   [
+    225,
+    224,
+    224
+   ],
+   667,
+   102,
+   243,
+   17
+  ],
+  [
+   "HEAVY GLOVES",
+   "white",
+   [
+    225,
+    224,
+    224
+   ],
+   762,
+   129,
+   154,
+   15
+  ],
+  [
+   "\u2022971 GOLD",
+   "white",
+   [
+    225,
+    224,
+    224
+   ],
+   642,
+   156,
+   119,
+   15
+  ],
+  [
+   "SCROLL OF IDENTIFY",
+   "white",
+   [
+    226,
+    225,
+    225
+   ],
+   730,
+   185,
+   219,
+   15
+  ],
+  [
+   "\u2022SCROLL OF",
+   "white",
+   [
+    219,
+    219,
+    219
+   ],
+   655,
+   213,
+   131,
+   15
+  ],
+  [
+   "141 GOLD",
+   "white",
+   [
+    228,
+    227,
+    227
+   ],
+   734,
+   269,
+   97,
+   15
+  ],
+  [
+   "1 386",
+   "white",
+   [
+    242,
+    242,
+    242
+   ],
+   841,
+   322,
+   47,
+   14
+  ],
+  [
+   "q CRYSTAL SWORD",
+   "white",
+   [
+    210,
+    206,
+    204
+   ],
+   816,
+   423,
+   188,
+   19
+  ],
+  [
+   "TRIDENT",
+   "blue",
+   [
+    134,
+    134,
+    252
+   ],
+   874,
+   482,
+   91,
+   14
+  ],
+  [
+   "\u00c9\u00f6rprisn&",
+   "green",
+   [
+    69,
+    192,
+    50
+   ],
+   466,
+   489,
+   78,
+   26
+  ],
+  [
+   "(C2Sfi",
+   "white",
+   [
+    190,
+    170,
+    162
+   ],
+   519,
+   832,
+   65,
+   32
+  ],
+  [
+   "INVENTORY",
+   "gold",
+   [
+    206,
+    191,
+    141
+   ],
+   1476,
+   160,
+   120,
+   16
+  ],
+  [
+   "KIRA'S GUARDIAN",
+   "gold",
+   [
+    203,
+    187,
+    138
+   ],
+   1400,
+   233,
+   183,
+   15
+  ],
+  [
+   "TIARA",
+   "gold",
+   [
+    209,
+    193,
+    143
+   ],
+   1461,
+   258,
+   63,
+   14
+  ],
+  [
+   "DEFENSE : 117",
+   "white",
+   [
+    216,
+    216,
+    240
+   ],
+   1422,
+   283,
+   142,
+   15
+  ],
+  [
+   "DURABILITY:Q\u00d8 OF 25",
+   "white",
+   [
+    240,
+    240,
+    240
+   ],
+   1372,
+   308,
+   242,
+   15
+  ],
+  [
+   "REQUIRED LEVEL: 77",
+   "white",
+   [
+    237,
+    236,
+    236
+   ],
+   1382,
+   333,
+   221,
+   16
+  ],
+  [
+   "+2\u00d8% FASTER HIT RECOVERY",
+   "blue",
+   [
+    127,
+    127,
+    239
+   ],
+   1337,
+   357,
+   313,
+   16
+  ],
+  [
+   "+67 DEFENSE",
+   "blue",
+   [
+    130,
+    130,
+    244
+   ],
+   1422,
+   383,
+   141,
+   15
+  ],
+  [
+   "ALL RESISTANCES +61",
+   "blue",
+   [
+    124,
+    124,
+    233
+   ],
+   1375,
+   408,
+   231,
+   15
+  ],
+  [
+   "CANNOT BE FROZEN",
+   "blue",
+   [
+    131,
+    131,
+    245
+   ],
+   1385,
+   432,
+   213,
+   16
+  ],
+  [
+   "SHIFT + LEFT CLICK TO EQUIP",
+   "gray",
+   [
+    148,
+    148,
+    148
+   ],
+   1331,
+   467,
+   324,
+   17
+  ],
+  [
+   "CTRL + LEFT CLICK TO DROP",
+   "gray",
+   [
+    151,
+    151,
+    151
+   ],
+   1338,
+   492,
+   308,
+   17
+  ],
+  [
+   "HOLD SHIFT TO Corn PARE",
+   "white",
+   [
+    162,
+    162,
+    162
+   ],
+   1357,
+   517,
+   273,
+   15
+  ],
+  [
+   "770",
+   "white",
+   [
+    253,
+    253,
+    253
+   ],
+   1470,
+   841,
+   39,
+   13
+  ],
+  [
+   "o",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1844,
+   6,
+   11,
+   10
+  ],
+  [
+   "8:00 PM",
+   "white",
+   [
+    214,
+    214,
+    214
+   ],
+   1814,
+   1045,
+   42,
+   10
+  ],
+  [
+   "x",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1890,
+   6,
+   10,
+   10
+  ],
+  [
+   "Defiler",
+   "white",
+   [
+    221,
+    221,
+    221
+   ],
+   24,
+   111,
+   40,
+   12
+  ],
+  [
+   "Defiler",
+   "white",
+   [
+    221,
+    221,
+    221
+   ],
+   106,
+   111,
+   40,
+   12
+  ],
+  [
+   "TheDFedBO",
+   "gold",
+   [
+    193,
+    177,
+    131
+   ],
+   24,
+   304,
+   70,
+   12
+  ],
+  [
+   "ViverPrism",
+   "gold",
+   [
+    176,
+    161,
+    118
+   ],
+   23,
+   399,
+   65,
+   14
+  ],
+  [
+   "ViperPrism",
+   "gold",
+   [
+    176,
+    161,
+    118
+   ],
+   23,
+   495,
+   65,
+   14
+  ],
+  [
+   "ViperPrism",
+   "gold",
+   [
+    177,
+    161,
+    118
+   ],
+   23,
+   591,
+   65,
+   14
+  ],
+  [
+   "VipvrPrism",
+   "gold",
+   [
+    177,
+    161,
+    119
+   ],
+   23,
+   685,
+   65,
+   14
+  ],
+  [
+   "ftame] Baal says. *Laughing*",
+   "gold",
+   [
+    181,
+    166,
+    122
+   ],
+   23,
+   782,
+   291,
+   26
+  ],
+  [
+   "p Type here to search",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   60,
+   1052,
+   156,
+   17
+  ]
+ ],
+ "tooltip": [
+  [
+   "KIRA'S GUARDIAN",
+   "gold"
+  ],
+  [
+   "TIARA",
+   "gold"
+  ],
+  [
+   "DEFENSE : 117",
+   "white"
+  ],
+  [
+   "DURABILITY:Q\u00d8 OF 25",
+   "white"
+  ],
+  [
+   "REQUIRED LEVEL: 77",
+   "white"
+  ],
+  [
+   "+2\u00d8% FASTER HIT RECOVERY",
+   "blue"
+  ],
+  [
+   "+67 DEFENSE",
+   "blue"
+  ],
+  [
+   "ALL RESISTANCES +61",
+   "blue"
+  ],
+  [
+   "CANNOT BE FROZEN",
+   "blue"
+  ],
+  [
+   "SHIFT + LEFT CLICK TO EQUIP",
+   "gray"
+  ],
+  [
+   "CTRL + LEFT CLICK TO DROP",
+   "gray"
+  ],
+  [
+   "HOLD SHIFT TO Corn PARE",
+   "white"
+  ]
+ ],
+ "parsed": {
+  "category": "unique",
+  "name": "Kira's Guardian",
+  "base": "Tiara",
+  "stats": [
+   "+20% FASTER HIT RECOVERY",
+   "+67 DEFENSE",
+   "ALL RESISTANCES +61",
+   "CANNOT BE FROZEN"
+  ],
+  "defense": 117,
+  "ethereal": false,
+  "sockets": null,
+  "unidentified": false,
+  "superior": false,
+  "raw": [
+   [
+    "KIRA'S GUARDIAN",
+    "gold"
+   ],
+   [
+    "TIARA",
+    "gold"
+   ],
+   [
+    "DEFENSE : 117",
+    "white"
+   ],
+   [
+    "DURABILITY:00 OF 25",
+    "white"
+   ],
+   [
+    "REQUIRED LEVEL: 77",
+    "white"
+   ],
+   [
+    "+20% FASTER HIT RECOVERY",
+    "blue"
+   ],
+   [
+    "+67 DEFENSE",
+    "blue"
+   ],
+   [
+    "ALL RESISTANCES +61",
+    "blue"
+   ],
+   [
+    "CANNOT BE FROZEN",
+    "blue"
+   ],
+   [
+    "SHIFT + LEFT CLICK TO EQUIP",
+    "gray"
+   ],
+   [
+    "CTRL + LEFT CLICK TO DROP",
+    "gray"
+   ],
+   [
+    "HOLD SHIFT TO Corn PARE",
+    "white"
+   ]
+  ],
+  "confidence": "high"
+ }
+}

@@ -85,11 +85,12 @@ def classify_color(rgb):
         return "red"
     if hue < 50 and s > 0.8:
         return "orange"      # crafted items, runes (fully saturated)
-    if hue < 50:
+    # Unique gold sits at ~45 deg, rare yellow at ~60 deg. Judge by hue only: brightness varies
+    # (a tooltip that is still fading in can be half as bright).
+    if hue < 52:
         return "gold"        # unique / runeword names (muted tan)
     if hue < 75:
-        # Unique gold is a muted tan; rare yellow is strongly saturated and bright.
-        return "yellow" if (s > 0.5 and v > 0.75 and hue > 50) else "gold"
+        return "yellow"
     if hue < 170:
         return "green"       # set items
     if hue < 270:

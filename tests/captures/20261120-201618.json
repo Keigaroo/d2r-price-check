@@ -1,0 +1,551 @@
+{
+ "cursor": [
+  604,
+  335
+ ],
+ "all_lines": [
+  [
+   "Diablo II: Resurrected",
+   "white",
+   [
+    251,
+    253,
+    251
+   ],
+   26,
+   8,
+   110,
+   10
+  ],
+  [
+   "PERS\u00b1NAL",
+   "gray",
+   [
+    135,
+    148,
+    150
+   ],
+   165,
+   203,
+   63,
+   8
+  ],
+  [
+   "SHAREO",
+   "white",
+   [
+    235,
+    235,
+    235
+   ],
+   265,
+   201,
+   47,
+   10
+  ],
+  [
+   "STASH",
+   "gold",
+   [
+    208,
+    192,
+    142
+   ],
+   351,
+   158,
+   62,
+   17
+  ],
+  [
+   "GE\u2022ms",
+   "gray",
+   [
+    142,
+    155,
+    157
+   ],
+   364,
+   203,
+   33,
+   8
+  ],
+  [
+   "RUNES",
+   "gray",
+   [
+    131,
+    143,
+    145
+   ],
+   542,
+   203,
+   41,
+   8
+  ],
+  [
+   "DREADFANG",
+   "gold",
+   [
+    207,
+    191,
+    141
+   ],
+   532,
+   419,
+   122,
+   15
+  ],
+  [
+   "LEGEND SWORD",
+   "gold",
+   [
+    203,
+    187,
+    138
+   ],
+   512,
+   444,
+   160,
+   15
+  ],
+  [
+   "o",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1844,
+   6,
+   11,
+   10
+  ],
+  [
+   "INVENTORY",
+   "gold",
+   [
+    206,
+    191,
+    141
+   ],
+   1476,
+   160,
+   120,
+   16
+  ],
+  [
+   "g 63691",
+   "gold",
+   [
+    206,
+    188,
+    127
+   ],
+   1465,
+   753,
+   85,
+   21
+  ],
+  [
+   "x",
+   "white",
+   [
+    255,
+    255,
+    255
+   ],
+   1890,
+   6,
+   10,
+   10
+  ],
+  [
+   "m A TERI ALS",
+   "gray",
+   [
+    140,
+    153,
+    155
+   ],
+   435,
+   203,
+   71,
+   8
+  ],
+  [
+   "TWO-HAND D A m AGE: 131 TO 246",
+   "white",
+   [
+    199,
+    199,
+    236
+   ],
+   412,
+   469,
+   358,
+   15
+  ],
+  [
+   "DURABILITY: 23 OF 44",
+   "white",
+   [
+    237,
+    237,
+    237
+   ],
+   474,
+   494,
+   237,
+   15
+  ],
+  [
+   "REQUIRED DEXTERITY : 47",
+   "white",
+   [
+    237,
+    237,
+    237
+   ],
+   456,
+   519,
+   273,
+   16
+  ],
+  [
+   "REQUIRED STRENGTH : 83",
+   "white",
+   [
+    237,
+    237,
+    237
+   ],
+   460,
+   544,
+   265,
+   17
+  ],
+  [
+   "REQUIRED LEVEL : 61",
+   "white",
+   [
+    235,
+    235,
+    235
+   ],
+   484,
+   569,
+   215,
+   16
+  ],
+  [
+   "SWORD CLASS - VERY FAST ATTAC SPEED",
+   "blue",
+   [
+    163,
+    163,
+    231
+   ],
+   364,
+   593,
+   457,
+   16
+  ],
+  [
+   "33% CHANCE TO CAST LEVEL 3 Am PL IF Y D A m AGE ON",
+   "blue",
+   [
+    122,
+    122,
+    228
+   ],
+   255,
+   619,
+   571,
+   17
+  ],
+  [
+   "+33% INCREASED ATTACK SPEED",
+   "blue",
+   [
+    126,
+    126,
+    236
+   ],
+   417,
+   643,
+   351,
+   16
+  ],
+  [
+   "+162% ENHANCED D Am AGE",
+   "blue",
+   [
+    128,
+    128,
+    240
+   ],
+   446,
+   668,
+   291,
+   16
+  ],
+  [
+   "33% BONUS TO ATTACK RATING",
+   "blue",
+   [
+    128,
+    127,
+    239
+   ],
+   422,
+   694,
+   341,
+   15
+  ],
+  [
+   "3% m ANA STOLEN PER HIT",
+   "blue",
+   [
+    128,
+    127,
+    239
+   ],
+   451,
+   719,
+   283,
+   15
+  ],
+  [
+   "+33% DEADLY STRIKE",
+   "blue",
+   [
+    126,
+    126,
+    235
+   ],
+   476,
+   743,
+   231,
+   16
+  ],
+  [
+   "TO m IRRORED BLADES (WARLOCK ONLY)",
+   "blue",
+   [
+    122,
+    122,
+    229
+   ],
+   392,
+   766,
+   433,
+   19
+  ],
+  [
+   "REQUIREff1ENTS -33%",
+   "blue",
+   [
+    128,
+    128,
+    240
+   ],
+   478,
+   795,
+   229,
+   16
+  ],
+  [
+   "Stash7",
+   "white",
+   [
+    220,
+    219,
+    218
+   ],
+   948,
+   488,
+   49,
+   17
+  ],
+  [
+   "Larzuk>,",
+   "gold",
+   [
+    173,
+    160,
+    119
+   ],
+   1069,
+   487,
+   60,
+   18
+  ],
+  [
+   "STRIKING",
+   "blue",
+   [
+    135,
+    135,
+    253
+   ],
+   839,
+   621,
+   90,
+   12
+  ]
+ ],
+ "tooltip": [
+  [
+   "DREADFANG",
+   "gold"
+  ],
+  [
+   "LEGEND SWORD",
+   "gold"
+  ],
+  [
+   "TWO-HAND D A m AGE: 131 TO 246",
+   "white"
+  ],
+  [
+   "DURABILITY: 23 OF 44",
+   "white"
+  ],
+  [
+   "REQUIRED DEXTERITY : 47",
+   "white"
+  ],
+  [
+   "REQUIRED STRENGTH : 83",
+   "white"
+  ],
+  [
+   "REQUIRED LEVEL : 61",
+   "white"
+  ],
+  [
+   "SWORD CLASS - VERY FAST ATTAC SPEED",
+   "blue"
+  ],
+  [
+   "33% CHANCE TO CAST LEVEL 3 Am PL IF Y D A m AGE ON",
+   "blue"
+  ],
+  [
+   "+33% INCREASED ATTACK SPEED",
+   "blue"
+  ],
+  [
+   "+162% ENHANCED D Am AGE",
+   "blue"
+  ],
+  [
+   "33% BONUS TO ATTACK RATING",
+   "blue"
+  ],
+  [
+   "3% m ANA STOLEN PER HIT",
+   "blue"
+  ],
+  [
+   "+33% DEADLY STRIKE",
+   "blue"
+  ],
+  [
+   "TO m IRRORED BLADES (WARLOCK ONLY)",
+   "blue"
+  ],
+  [
+   "REQUIREff1ENTS -33%",
+   "blue"
+  ]
+ ],
+ "parsed": {
+  "category": "unique",
+  "name": "Dreadfang",
+  "base": "Legend Sword",
+  "stats": [
+   "TWO-HAND D A m AGE: 131 TO 246",
+   "33% CHANCE TO CAST LEVEL 3 Am PL IF Y D A m AGE ON",
+   "+162% ENHANCED D Am AGE",
+   "33% BONUS TO ATTACK RATING",
+   "3% m ANA STOLEN PER HIT",
+   "+33% DEADLY STRIKE",
+   "TO m IRRORED BLADES (WARLOCK ONLY)",
+   "REQUIREff1ENTS -33%"
+  ],
+  "defense": null,
+  "ethereal": false,
+  "sockets": null,
+  "unidentified": false,
+  "superior": false,
+  "raw": [
+   [
+    "DREADFANG",
+    "gold"
+   ],
+   [
+    "LEGEND SWORD",
+    "gold"
+   ],
+   [
+    "TWO-HAND D A m AGE: 131 TO 246",
+    "white"
+   ],
+   [
+    "DURABILITY: 23 OF 44",
+    "white"
+   ],
+   [
+    "REQUIRED DEXTERITY : 47",
+    "white"
+   ],
+   [
+    "REQUIRED STRENGTH : 83",
+    "white"
+   ],
+   [
+    "REQUIRED LEVEL : 61",
+    "white"
+   ],
+   [
+    "SWORD CLASS - VERY FAST ATTAC SPEED",
+    "blue"
+   ],
+   [
+    "33% CHANCE TO CAST LEVEL 3 Am PL IF Y D A m AGE ON",
+    "blue"
+   ],
+   [
+    "+33% INCREASED ATTACK SPEED",
+    "blue"
+   ],
+   [
+    "+162% ENHANCED D Am AGE",
+    "blue"
+   ],
+   [
+    "33% BONUS TO ATTACK RATING",
+    "blue"
+   ],
+   [
+    "3% m ANA STOLEN PER HIT",
+    "blue"
+   ],
+   [
+    "+33% DEADLY STRIKE",
+    "blue"
+   ],
+   [
+    "TO m IRRORED BLADES (WARLOCK ONLY)",
+    "blue"
+   ],
+   [
+    "REQUIREff1ENTS -33%",
+    "blue"
+   ]
+  ],
+  "confidence": "high"
+ }
+}
